@@ -1,0 +1,15 @@
+{
+  
+    "module_area":1.00,
+    "irradiance_stc":1,
+    "efficiency_module":0.19,
+    "power_stc":0.24,
+    "temperature_coefficient":0.003,
+    "temperature_cell_stc":25,
+    "temperature_noc":44,
+    "area_max":200,
+    "price_invest_per_kw":2000,
+    "node_dc":"node_dc",
+    "ambient_temperature_filepath":"model/data/ambient_temp.json",
+    "global_irradiance_filepath":"model/data/irradiance.json"
+}

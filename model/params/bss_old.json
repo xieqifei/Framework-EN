@@ -1,0 +1,13 @@
+{
+    "efficiency_discharge":0.9,
+    "efficiency_charge":0.9,
+    "lifecycle":3000,
+    "cost_investment_per_kwh":408,
+    "cost_investment_per_kw":156,
+    "cost_o&m_per_kw_year":4,
+    "soc_initial":0,
+    "dod_max":70,
+    "price_recycle_per_kg":0.47,
+    "energy_density":0.1,
+    "cost_battery_purchasing_per_kwh":185
+}

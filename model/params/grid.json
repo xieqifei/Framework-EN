@@ -1,0 +1,8 @@
+{
+    "power_grid_max": 312,
+    "cost_grid_connection":5000,
+    "peak_demand_rate":600,
+    "ele_price_buy":0.34,
+    "ele_price_sell":0.28,
+    "node_ac":"node_ac"
+}

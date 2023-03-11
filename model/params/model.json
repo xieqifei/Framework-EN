@@ -1,0 +1,5 @@
+{
+    "time_step_size": 15,
+    "discount_rate":0.04,
+    "serve_year":10
+}

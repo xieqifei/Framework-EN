@@ -1,0 +1,10 @@
+{
+    "electricity_price":0.4,
+    "number_ports":6,
+    "cost_hardware":1000,
+    "cost_installation":1000,
+    "cost_operation_maintanence":1000,
+    "price_ele_sell":0.4,
+    "node_ac":"node_ac",
+    "power_demand_filepath":"model/data/cs_power_data.json"
+}

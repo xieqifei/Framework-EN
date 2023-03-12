@@ -35,9 +35,34 @@ const getRectLabel = (model:BaseNodeModel,svgPath:string)=>{
       ]);
 }
 
+const getRequiredNodeNumber= (model:BaseNodeModel)=>{
+  let count = 0
+  for(let key in model.properties){
+    if(key.startsWith('node_')){
+      count++
+    }
+  }
+  return count
+}
+
+const getElementConnectedNodes = (model:BaseNodeModel)=>{
+  let nodes: BaseNodeModel[] = []
+  nodes = nodes.concat(model.outgoing.nodes,model.incoming.nodes)
+  // console.log(nodes)
+  return nodes
+}
+
+const getConnectedNodeNumber = (model:BaseNodeModel)=>{
+  return model.incoming.nodes.length+model.outgoing.nodes.length
+}
+
+
 export{
-    getRectLabel,
     fontSize,
     fontColor,
-    viewColor
+    viewColor,
+    getRequiredNodeNumber,
+    getElementConnectedNodes,
+    getConnectedNodeNumber,
+    getRectLabel,
 }

@@ -22,13 +22,18 @@ export default function setPanel(lf:LogicFlow){
           icon: icons.node.icon,
         },
         {
+            type:'grid',
+            text:'Grid',
+            label:'Grid',
+            icon:icons.grid.icon
+        },
+        {
           type: 'pvmodule',
           text: 'PV Module',
           label: 'PV Module',
           icon: icons.pvmodule.icon,
           className: 'important-node'
         },
-        
         {
           type: 'bss',
           text: 'BSS',
@@ -37,16 +42,28 @@ export default function setPanel(lf:LogicFlow){
           className:'import_icon'
         },
         {
-            type:'grid',
-            text:'Grid',
-            label:'Grid',
-            icon:icons.grid.icon
+            type:'pcs',
+            text:'Power conversion system',
+            label:'PCS',
+            icon:icons.pcs.icon
+        },
+        {
+            type:'inverter',
+            text:'Inverter',
+            label:'Inverter',
+            icon:icons.inverter.icon
         },
         {
             type:'cs',
             text:'Charging station',
             label:'Charging station',
             icon:icons.cs.icon
+        },
+        {
+            type:'company',
+            text:'Company',
+            label:'Company',
+            icon:icons.company.icon
         }
       ]);
 }

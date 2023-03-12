@@ -19,7 +19,7 @@ class Stream:
         return self.format_sse(data,'message')
 
     def pack_error(self,msg:str):
-        data = {'msg':msg}
+        data = {'msg':str(msg)}
         return self.format_sse(data,'error')
 
     def pack_result(self,data:dict):
@@ -27,13 +27,16 @@ class Stream:
 
 
     def send_message(self,msg):
-        msg = f'{self.now}: {msg}'
+        # msg = f'{msg}'
         self.announcer.announce(self.pack_message(msg))
         
     def send_error(self,msg):
-        msg = f'{self.now}: {msg}'
+        # msg = f'{self.now}: {msg}'
         self.announcer.announce(self.pack_error(msg))
         
+    def send_success(self,msg):
+        data = {'msg':msg}
+        self.announcer.announce(self.pack_message(self.format_sse(data,'success')))
         
     def send_result(self,type:str,name:str,id:str,result:dict):
         data = {

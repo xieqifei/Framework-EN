@@ -1,27 +1,27 @@
 import {getRectLabel} from '../canvas_components/common'
 import icons from '../canvas_components/icons'
-import params from './parameters/grid'
+import params from './parameters/company'
 import {BaseElementModel,BaseElementView} from "./base_model/BaseElement";
 
-
-class GridView extends BaseElementView {
+class CompanyView extends BaseElementView {
 
   getShape() {
     const { model } = this.props;
-    const svgPath = icons.grid.svgPath
+    const svgPath = icons.company.svgPath
     return getRectLabel(model,svgPath)
   }
 }
 
-class GridModel extends BaseElementModel {
+class CompanyModel extends BaseElementModel {
     initNodeData(data: any) {
         super.initNodeData(data)
         this.properties = params
+
     }
 }
 
 export default {
-  type: "grid",
-  view: GridView,
-  model: GridModel
+  type: "company",
+  view: CompanyView,
+  model: CompanyModel
 };

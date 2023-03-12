@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
 from matplotlib.dates import HourLocator
 from .Node import Node
+import json
 class ModelFrame():
     def __init__(self, model, model_params,):
         """this class is used to initialize the model, add some constant to model,
@@ -130,6 +131,42 @@ class ModelFrame():
         new_manager.canvas.figure = fig
         fig.set_canvas(new_manager.canvas)
     
+    def get_comp_powerflow_data(self,data_descp,*components):
+        """get the merged data of components in format JSON
+
+        Args:
+            data_descp (string): Description of data, may used as ylabel of a chart
+            *components (*compontent[]):  destructed list of components of model
+        """     
+        data = pd.read_csv(r'model\assets\com_data.csv')
+        data['date'] = data.apply(lambda x: dt.strptime(
+            x['date'], '%Y-%m-%d %H:%M:%S'), axis=1)
+        data_buffer = {}
+        data_buffer['date'] = data['date']
+        for comp in components:
+            data_buffer[comp.getname()] =  [value(comp[i]) for i in comp]
+        data_pd = pd.DataFrame(data_buffer)
+        json_str = data_pd.to_json(orient='records')
+        dict_data = json.loads(json_str)
+        return dict_data
+    
+    def get_node_powerflow_data(self,node:Node):
+        data = pd.read_csv(r"model\assets\com_data.csv")
+        data['date'] = data.apply(lambda x: dt.strptime(
+            x['date'], '%Y-%m-%d %H:%M:%S'), axis=1)
+        data_buffer = {}
+        powerIn = node.powerIn
+        powerOut = node.powerOut
+        data_buffer['date'] = data['date']
+        for comp in powerIn:
+            data_buffer[comp.getname()] =  [value(comp[i]) for i in comp]
+        for comp in powerOut:
+            data_buffer[comp.getname()] =  [-value(comp[i]) for i in comp] 
+        data_pd = pd.DataFrame(data_buffer)
+        json_str = data_pd.to_json(orient='records')
+        dict_data = json.loads(json_str)
+        return dict_data
+    
     def get_comp_powerflow_figure(self,ylabel,*components):
         data = pd.read_csv(r'model\assets\com_data.csv')
         data['date'] = data.apply(lambda x: dt.strptime(
@@ -157,6 +194,11 @@ class ModelFrame():
         data_pd = pd.DataFrame(data_buffer)
         data_pd.set_index('date', drop=True, inplace=True)
         return self._generate_line_chart(data_pd,ylabel='power in kW')
+    
+    def beautify_label_text(self,old_label:str) -> str:
+        new_label = old_label.replace('_in', ' input').replace('_out', ' output').replace('_', ' ')
+        new_label = new_label.split('&')[0]
+        return new_label
 
     def _generate_line_chart(self,data, title='', ylabel=''):
         weeklist = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
@@ -176,9 +218,10 @@ class ModelFrame():
                 return '24'
         fig = Figure(figsize=(12, 5), dpi=500)
         ax = fig.add_subplot(111)
+        
         for col_name, data in data.items():
             if '_' in col_name:
-                label = col_name.replace('_in', ' input').replace('_out', ' output').replace('_', ' ')
+                label = self.beautify_label_text(col_name)
             else:
                 label = ''
             # linestyle = '--' if 'Average' not in col_name and 'Median' not in col_name else '-'

@@ -1,0 +1,3361 @@
+[{
+	"date": 1665360000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2025120773,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2025120773
+}, {
+	"date": 1665360900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3115297907,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3115297907
+}, {
+	"date": 1665361800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1131320451,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1131320451
+}, {
+	"date": 1665362700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1594202899,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1594202899
+}, {
+	"date": 1665363600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1765861514,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1765861514
+}, {
+	"date": 1665364500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1705797101,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1705797101
+}, {
+	"date": 1665365400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2947826087,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2947826087
+}, {
+	"date": 1665366300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3245008052,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3245008052
+}, {
+	"date": 1665367200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2791787439,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2791787439
+}, {
+	"date": 1665368100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3033413849,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3033413849
+}, {
+	"date": 1665369000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4037520129,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4037520129
+}, {
+	"date": 1665369900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5509822866,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5509822866
+}, {
+	"date": 1665370800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9244524959,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9244524959
+}, {
+	"date": 1665371700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0289855072,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0289855072
+}, {
+	"date": 1665372600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.166916264,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.166916264
+}, {
+	"date": 1665373500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0359903381,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0359903381
+}, {
+	"date": 1665374400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0139935588,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0139935588
+}, {
+	"date": 1665375300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0252173913,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0252173913
+}, {
+	"date": 1665376200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9430193236,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9430193236
+}, {
+	"date": 1665377100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8049516908,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8049516908
+}, {
+	"date": 1665378000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9391223832,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9391223832
+}, {
+	"date": 1665378900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0264009662,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0264009662
+}, {
+	"date": 1665379800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1462560386,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1462560386
+}, {
+	"date": 1665380700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9563204508,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9563204508
+}, {
+	"date": 1665381600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9881481482,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9881481482
+}, {
+	"date": 1665382500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9534380031,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9534380031
+}, {
+	"date": 1665383400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0602818036,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0602818036
+}, {
+	"date": 1665384300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.03568438,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.03568438
+}, {
+	"date": 1665385200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0234702093,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0234702093
+}, {
+	"date": 1665386100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8041626409,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8041626409
+}, {
+	"date": 1665387000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2411528958,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2411528958
+}, {
+	"date": 1665387900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.5669490891,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.5669490891
+}, {
+	"date": 1665388800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.8121318345,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.8121318345
+}, {
+	"date": 1665389700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.7986118264,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.7986118264
+}, {
+	"date": 1665390600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.5413012483,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.5413012483
+}, {
+	"date": 1665391500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.21540711,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.21540711
+}, {
+	"date": 1665392400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.0194229995,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.0194229995
+}, {
+	"date": 1665393300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.6528365083,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.6528365083
+}, {
+	"date": 1665394200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.4806874534,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.4806874534
+}, {
+	"date": 1665395100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.3272766417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.3272766417
+}, {
+	"date": 1665396000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.9638633954,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.9638633954
+}, {
+	"date": 1665396900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.8666502091,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.8666502091
+}, {
+	"date": 1665397800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 12.5897324792,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -12.5897324792
+}, {
+	"date": 1665398700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 12.9276047374,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -12.9276047374
+}, {
+	"date": 1665399600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 12.6810350773,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -12.6810350773
+}, {
+	"date": 1665400500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 12.2248581778,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -12.2248581778
+}, {
+	"date": 1665401400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 12.4073405286,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -12.4073405286
+}, {
+	"date": 1665402300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.9639886703,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.9639886703
+}, {
+	"date": 1665403200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.9272404297,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.9272404297
+}, {
+	"date": 1665404100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 12.0524734056,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -12.0524734056
+}, {
+	"date": 1665405000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 11.5791707587,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -11.5791707587
+}, {
+	"date": 1665405900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.8883622176,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.8883622176
+}, {
+	"date": 1665406800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.9116644748,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.9116644748
+}, {
+	"date": 1665407700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.0662057953,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.0662057953
+}, {
+	"date": 1665408600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.4179294077,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.4179294077
+}, {
+	"date": 1665409500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7945915433,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7945915433
+}, {
+	"date": 1665410400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.1138872845,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.1138872845
+}, {
+	"date": 1665411300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.2706067464,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.2706067464
+}, {
+	"date": 1665412200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.6618064243,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.6618064243
+}, {
+	"date": 1665413100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8034123272,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8034123272
+}, {
+	"date": 1665414000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.9227681932,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.9227681932
+}, {
+	"date": 1665414900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.0767972559,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.0767972559
+}, {
+	"date": 1665415800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.7791699204,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.7791699204
+}, {
+	"date": 1665416700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.25043531,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.25043531
+}, {
+	"date": 1665417600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.9201650948,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.9201650948
+}, {
+	"date": 1665418500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.069928089,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.069928089
+}, {
+	"date": 1665419400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.4003296654,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.4003296654
+}, {
+	"date": 1665420300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.4507981115,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.4507981115
+}, {
+	"date": 1665421200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.492553345,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.492553345
+}, {
+	"date": 1665422100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.054469609,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.054469609
+}, {
+	"date": 1665423000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.2315308008,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.2315308008
+}, {
+	"date": 1665423900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.9380670771,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.9380670771
+}, {
+	"date": 1665424800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.0612783637,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.0612783637
+}, {
+	"date": 1665425700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.1248359674,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.1248359674
+}, {
+	"date": 1665426600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.6784057971,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.6784057971
+}, {
+	"date": 1665427500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.9295732689,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.9295732689
+}, {
+	"date": 1665428400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.6213285024,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.6213285024
+}, {
+	"date": 1665429300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.0394847021,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.0394847021
+}, {
+	"date": 1665430200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.0310547505,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.0310547505
+}, {
+	"date": 1665431100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.5317793881,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.5317793881
+}, {
+	"date": 1665432000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.33852657,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.33852657
+}, {
+	"date": 1665432900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1154025764,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1154025764
+}, {
+	"date": 1665433800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8965539453,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8965539453
+}, {
+	"date": 1665434700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7265942029,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7265942029
+}, {
+	"date": 1665435600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6406038647,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6406038647
+}, {
+	"date": 1665436500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4953220611,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4953220611
+}, {
+	"date": 1665437400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5884057971,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5884057971
+}, {
+	"date": 1665438300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4862157809,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4862157809
+}, {
+	"date": 1665439200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3020128824,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3020128824
+}, {
+	"date": 1665440100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.385531401,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.385531401
+}, {
+	"date": 1665441000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4702576489,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4702576489
+}, {
+	"date": 1665441900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4743639291,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4743639291
+}, {
+	"date": 1665442800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4142592592,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4142592592
+}, {
+	"date": 1665443700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3600644122,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3600644122
+}, {
+	"date": 1665444600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4498389694,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4498389694
+}, {
+	"date": 1665445500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4548953302,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4548953302
+}, {
+	"date": 1665446400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3528582931,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3528582931
+}, {
+	"date": 1665447300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3797906602,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3797906602
+}, {
+	"date": 1665448200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3756441224,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3756441224
+}, {
+	"date": 1665449100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2251127214,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2251127214
+}, {
+	"date": 1665450000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2838566828,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2838566828
+}, {
+	"date": 1665450900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3015136876,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3015136876
+}, {
+	"date": 1665451800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4191867955,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4191867955
+}, {
+	"date": 1665452700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3985507246,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3985507246
+}, {
+	"date": 1665453600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3875442834,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3875442834
+}, {
+	"date": 1665454500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4055394525,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4055394525
+}, {
+	"date": 1665455400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5404589372,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5404589372
+}, {
+	"date": 1665456300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.796626409,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.796626409
+}, {
+	"date": 1665457200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8335909823,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8335909823
+}, {
+	"date": 1665458100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7972866345,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7972866345
+}, {
+	"date": 1665459000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6617149758,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6617149758
+}, {
+	"date": 1665459900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7458776168,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7458776168
+}, {
+	"date": 1665460800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7852818035,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7852818035
+}, {
+	"date": 1665461700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5366022545,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5366022545
+}, {
+	"date": 1665462600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6318518519,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6318518519
+}, {
+	"date": 1665463500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7375845411,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7375845411
+}, {
+	"date": 1665464400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9307246377,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9307246377
+}, {
+	"date": 1665465300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8531481482,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8531481482
+}, {
+	"date": 1665466200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9746779388,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9746779388
+}, {
+	"date": 1665467100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.927979066,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.927979066
+}, {
+	"date": 1665468000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.08,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.08
+}, {
+	"date": 1665468900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4316908212,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4316908212
+}, {
+	"date": 1665469800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.3586473431,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.3586473431
+}, {
+	"date": 1665470700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4650805153,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4650805153
+}, {
+	"date": 1665471600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.609178744,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.609178744
+}, {
+	"date": 1665472500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.102826542,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.102826542
+}, {
+	"date": 1665473400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.9196608374,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.9196608374
+}, {
+	"date": 1665474300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.8339200969,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.8339200969
+}, {
+	"date": 1665475200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.065662662,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.065662662
+}, {
+	"date": 1665476100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.4330780032,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.4330780032
+}, {
+	"date": 1665477000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.7881585187,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.7881585187
+}, {
+	"date": 1665477900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.0449776521,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.0449776521
+}, {
+	"date": 1665478800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0076070765,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0076070765
+}, {
+	"date": 1665479700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7312581193,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7312581193
+}, {
+	"date": 1665480600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.2541842029,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.2541842029
+}, {
+	"date": 1665481500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.0166675819,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.0166675819
+}, {
+	"date": 1665482400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.2423339233,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.2423339233
+}, {
+	"date": 1665483300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.2800272762,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.2800272762
+}, {
+	"date": 1665484200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.1867365776,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.1867365776
+}, {
+	"date": 1665485100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.3401297429,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.3401297429
+}, {
+	"date": 1665486000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.5495932067,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.5495932067
+}, {
+	"date": 1665486900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.0027218277,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.0027218277
+}, {
+	"date": 1665487800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.5714226792,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.5714226792
+}, {
+	"date": 1665488700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.5083517932,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.5083517932
+}, {
+	"date": 1665489600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7211796339,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7211796339
+}, {
+	"date": 1665490500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.3180738255,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.3180738255
+}, {
+	"date": 1665491400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.4037855437,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.4037855437
+}, {
+	"date": 1665492300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.3522622309,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.3522622309
+}, {
+	"date": 1665493200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.6127428873,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.6127428873
+}, {
+	"date": 1665494100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8809649095,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8809649095
+}, {
+	"date": 1665495000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.7847161716,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.7847161716
+}, {
+	"date": 1665495900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.4772371908,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.4772371908
+}, {
+	"date": 1665496800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0957123114,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0957123114
+}, {
+	"date": 1665497700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.2114360549,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.2114360549
+}, {
+	"date": 1665498600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.6395800676,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.6395800676
+}, {
+	"date": 1665499500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.3180008122,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.3180008122
+}, {
+	"date": 1665500400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.0914159891,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.0914159891
+}, {
+	"date": 1665501300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.1502243413,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.1502243413
+}, {
+	"date": 1665502200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.3917117331,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.3917117331
+}, {
+	"date": 1665503100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.412798232,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.412798232
+}, {
+	"date": 1665504000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0268597056,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0268597056
+}, {
+	"date": 1665504900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.9932357418,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.9932357418
+}, {
+	"date": 1665505800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.4585153765,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.4585153765
+}, {
+	"date": 1665506700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.8546146948,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.8546146948
+}, {
+	"date": 1665507600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0691982773,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0691982773
+}, {
+	"date": 1665508500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.1035763624,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.1035763624
+}, {
+	"date": 1665509400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0403638019,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0403638019
+}, {
+	"date": 1665510300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.5831898886,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.5831898886
+}, {
+	"date": 1665511200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.7098807102,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.7098807102
+}, {
+	"date": 1665512100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.9592929483,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.9592929483
+}, {
+	"date": 1665513000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.4983106617,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.4983106617
+}, {
+	"date": 1665513900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.1131818372,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.1131818372
+}, {
+	"date": 1665514800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.336164024,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.336164024
+}, {
+	"date": 1665515700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.7396596903,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.7396596903
+}, {
+	"date": 1665516600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.1533277933,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.1533277933
+}, {
+	"date": 1665517500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.5370153942,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.5370153942
+}, {
+	"date": 1665518400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2933438966,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2933438966
+}, {
+	"date": 1665519300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0438512931,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0438512931
+}, {
+	"date": 1665520200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8290338165,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8290338165
+}, {
+	"date": 1665521100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5764573269,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5764573269
+}, {
+	"date": 1665522000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4782608696,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4782608696
+}, {
+	"date": 1665522900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3714975846,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3714975846
+}, {
+	"date": 1665523800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3188405797,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3188405797
+}, {
+	"date": 1665524700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1712721417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1712721417
+}, {
+	"date": 1665525600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0993558776,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0993558776
+}, {
+	"date": 1665526500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0139452496,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0139452496
+}, {
+	"date": 1665527400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665528300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665529200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665530100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665531000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665531900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665532800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665533700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665534600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665535500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665536400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665537300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665538200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665539100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665540000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665540900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665541800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665542700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665543600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665544500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665545400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665546300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665547200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0673993559,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0673993559
+}, {
+	"date": 1665548100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665549000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665549900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1003462158,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1003462158
+}, {
+	"date": 1665550800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2263768116,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2263768116
+}, {
+	"date": 1665551700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1595008052,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1595008052
+}, {
+	"date": 1665552600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.064057971,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.064057971
+}, {
+	"date": 1665553500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0212560386,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0212560386
+}, {
+	"date": 1665554400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665555300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1797906602,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1797906602
+}, {
+	"date": 1665556200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3188405797,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3188405797
+}, {
+	"date": 1665557100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3241545894,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3241545894
+}, {
+	"date": 1665558000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4983895802,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4983895802
+}, {
+	"date": 1665558900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.252528467,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.252528467
+}, {
+	"date": 1665559800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.1224744474,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.1224744474
+}, {
+	"date": 1665560700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.6564017505,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.6564017505
+}, {
+	"date": 1665561600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.2218879417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.2218879417
+}, {
+	"date": 1665562500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.8332315343,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.8332315343
+}, {
+	"date": 1665563400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.261795781,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.261795781
+}, {
+	"date": 1665564300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.5225079365,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.5225079365
+}, {
+	"date": 1665565200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8966153513,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8966153513
+}, {
+	"date": 1665566100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.7437553147,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.7437553147
+}, {
+	"date": 1665567000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.1253753668,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.1253753668
+}, {
+	"date": 1665567900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8270320968,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8270320968
+}, {
+	"date": 1665568800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.6293045224,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.6293045224
+}, {
+	"date": 1665569700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.1383853281,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.1383853281
+}, {
+	"date": 1665570600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.2569907928,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.2569907928
+}, {
+	"date": 1665571500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.7389188837,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.7389188837
+}, {
+	"date": 1665572400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.0984809368,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.0984809368
+}, {
+	"date": 1665573300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.9280013204,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.9280013204
+}, {
+	"date": 1665574200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.7837861254,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.7837861254
+}, {
+	"date": 1665575100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.1196190953,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.1196190953
+}, {
+	"date": 1665576000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.4869098521,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.4869098521
+}, {
+	"date": 1665576900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.9033803953,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.9033803953
+}, {
+	"date": 1665577800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.6346401072,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.6346401072
+}, {
+	"date": 1665578700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.1407099604,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.1407099604
+}, {
+	"date": 1665579600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.074288228,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.074288228
+}, {
+	"date": 1665580500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8066514839,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8066514839
+}, {
+	"date": 1665581400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.2019411946,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.2019411946
+}, {
+	"date": 1665582300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.5187943416,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.5187943416
+}, {
+	"date": 1665583200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.687624453,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.687624453
+}, {
+	"date": 1665584100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.7053574137,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.7053574137
+}, {
+	"date": 1665585000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.5838284225,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.5838284225
+}, {
+	"date": 1665585900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.07139703,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.07139703
+}, {
+	"date": 1665586800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.3949515818,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.3949515818
+}, {
+	"date": 1665587700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.6412013946,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.6412013946
+}, {
+	"date": 1665588600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.4585543701,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.4585543701
+}, {
+	"date": 1665589500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0576677697,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0576677697
+}, {
+	"date": 1665590400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.5039629693,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.5039629693
+}, {
+	"date": 1665591300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.4093986208,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.4093986208
+}, {
+	"date": 1665592200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.2520924657,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.2520924657
+}, {
+	"date": 1665593100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.1200061348,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.1200061348
+}, {
+	"date": 1665594000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.9932135287,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.9932135287
+}, {
+	"date": 1665594900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.5096692086,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.5096692086
+}, {
+	"date": 1665595800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.0651528217,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.0651528217
+}, {
+	"date": 1665596700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.9835137365,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.9835137365
+}, {
+	"date": 1665597600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.6959410657,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.6959410657
+}, {
+	"date": 1665598500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.3287548148,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.3287548148
+}, {
+	"date": 1665599400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.8235289044,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.8235289044
+}, {
+	"date": 1665600300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.2085131895,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.2085131895
+}, {
+	"date": 1665601200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.5189768186,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.5189768186
+}, {
+	"date": 1665602100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.0436610713,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.0436610713
+}, {
+	"date": 1665603000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.5117026378,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.5117026378
+}, {
+	"date": 1665603900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.9412070344,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.9412070344
+}, {
+	"date": 1665604800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.6135251798,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.6135251798
+}, {
+	"date": 1665605700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.3760831335,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.3760831335
+}, {
+	"date": 1665606600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1636770583,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1636770583
+}, {
+	"date": 1665607500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9595203837,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9595203837
+}, {
+	"date": 1665608400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7345723421,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7345723421
+}, {
+	"date": 1665609300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6766426858,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6766426858
+}, {
+	"date": 1665610200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3712869705,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3712869705
+}, {
+	"date": 1665611100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.315667466,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.315667466
+}, {
+	"date": 1665612000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2374100719,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2374100719
+}, {
+	"date": 1665612900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1873221423,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1873221423
+}, {
+	"date": 1665613800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665614700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2095363709,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2095363709
+}, {
+	"date": 1665615600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2374100719,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2374100719
+}, {
+	"date": 1665616500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1914148681,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1914148681
+}, {
+	"date": 1665617400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0791366906,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0791366906
+}, {
+	"date": 1665618300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0791366906,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0791366906
+}, {
+	"date": 1665619200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0791366906,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0791366906
+}, {
+	"date": 1665620100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0791366906,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0791366906
+}, {
+	"date": 1665621000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0791366906,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0791366906
+}, {
+	"date": 1665621900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1259152678,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1259152678
+}, {
+	"date": 1665622800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665623700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665624600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665625500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665626400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665627300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665628200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665629100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665630000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1106314948,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1106314948
+}, {
+	"date": 1665630900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0791366906,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0791366906
+}, {
+	"date": 1665631800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0578017586,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0578017586
+}, {
+	"date": 1665632700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665633600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665634500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665635400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665636300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665637200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0005755396,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0005755396
+}, {
+	"date": 1665638100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665639000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665639900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665640800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0994484412,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0994484412
+}, {
+	"date": 1665641700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665642600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665643500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1582733813,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1582733813
+}, {
+	"date": 1665644400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2235571542,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2235571542
+}, {
+	"date": 1665645300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8639968026,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8639968026
+}, {
+	"date": 1665646200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.59987869,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.59987869
+}, {
+	"date": 1665647100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4929425011,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4929425011
+}, {
+	"date": 1665648000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.1446738545,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.1446738545
+}, {
+	"date": 1665648900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.5951774516,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.5951774516
+}, {
+	"date": 1665649800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.514818914,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.514818914
+}, {
+	"date": 1665650700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.820253766,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.820253766
+}, {
+	"date": 1665651600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.0472256606,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.0472256606
+}, {
+	"date": 1665652500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8011375311,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8011375311
+}, {
+	"date": 1665653400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.9582678843,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.9582678843
+}, {
+	"date": 1665654300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.9095965933,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.9095965933
+}, {
+	"date": 1665655200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.4753893315,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.4753893315
+}, {
+	"date": 1665656100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.8643813344,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.8643813344
+}, {
+	"date": 1665657000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.569263824,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.569263824
+}, {
+	"date": 1665657900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.0350076763,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.0350076763
+}, {
+	"date": 1665658800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.2826876593,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.2826876593
+}, {
+	"date": 1665659700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.325567703,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.325567703
+}, {
+	"date": 1665660600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.170346313,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.170346313
+}, {
+	"date": 1665661500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.3795777401,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.3795777401
+}, {
+	"date": 1665662400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.9884359467,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.9884359467
+}, {
+	"date": 1665663300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7126218497,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7126218497
+}, {
+	"date": 1665664200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7782525493,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7782525493
+}, {
+	"date": 1665665100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.5281611278,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.5281611278
+}, {
+	"date": 1665666000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8549500883,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8549500883
+}, {
+	"date": 1665666900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0408423173,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0408423173
+}, {
+	"date": 1665667800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0706137815,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0706137815
+}, {
+	"date": 1665668700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.6206703098,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.6206703098
+}, {
+	"date": 1665669600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.8184257423,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.8184257423
+}, {
+	"date": 1665670500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.9781591678,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.9781591678
+}, {
+	"date": 1665671400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.3479911789,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.3479911789
+}, {
+	"date": 1665672300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.2960993367,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.2960993367
+}, {
+	"date": 1665673200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.3726997491,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.3726997491
+}, {
+	"date": 1665674100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.0658726919,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.0658726919
+}, {
+	"date": 1665675000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.8418454975,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.8418454975
+}, {
+	"date": 1665675900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.8040215429,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.8040215429
+}, {
+	"date": 1665676800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.637802518,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.637802518
+}, {
+	"date": 1665677700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.9484430576,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.9484430576
+}, {
+	"date": 1665678600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.2120839215,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.2120839215
+}, {
+	"date": 1665679500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.6484043724,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.6484043724
+}, {
+	"date": 1665680400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.6096034672,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.6096034672
+}, {
+	"date": 1665681300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.329849356,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.329849356
+}, {
+	"date": 1665682200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.5841243388,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.5841243388
+}, {
+	"date": 1665683100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.3557729469,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.3557729469
+}, {
+	"date": 1665684000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.3775442834,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.3775442834
+}, {
+	"date": 1665684900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.0127697262,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.0127697262
+}, {
+	"date": 1665685800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.6325845411,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.6325845411
+}, {
+	"date": 1665686700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.0516988728,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.0516988728
+}, {
+	"date": 1665687600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.3093478261,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.3093478261
+}, {
+	"date": 1665688500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.0066908213,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.0066908213
+}, {
+	"date": 1665689400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.6979468599,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.6979468599
+}, {
+	"date": 1665690300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.4502093397,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.4502093397
+}, {
+	"date": 1665691200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.9322705313,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.9322705313
+}, {
+	"date": 1665692100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2033333334,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2033333334
+}, {
+	"date": 1665693000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8322383254,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8322383254
+}, {
+	"date": 1665693900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6856924316,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6856924316
+}, {
+	"date": 1665694800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6317069244,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6317069244
+}, {
+	"date": 1665695700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5905716586,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5905716586
+}, {
+	"date": 1665696600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5634863124,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5634863124
+}, {
+	"date": 1665697500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6039774557,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6039774557
+}, {
+	"date": 1665698400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.563099839,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.563099839
+}, {
+	"date": 1665699300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5579710145,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5579710145
+}, {
+	"date": 1665700200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5312801933,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5312801933
+}, {
+	"date": 1665701100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5199758454,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5199758454
+}, {
+	"date": 1665702000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6659983897,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6659983897
+}, {
+	"date": 1665702900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7023349436,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7023349436
+}, {
+	"date": 1665703800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6655152979,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6655152979
+}, {
+	"date": 1665704700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6025281803,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6025281803
+}, {
+	"date": 1665705600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3951449276,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3951449276
+}, {
+	"date": 1665706500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5485024155,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5485024155
+}, {
+	"date": 1665707400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6297101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6297101449
+}, {
+	"date": 1665708300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7817310789,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7817310789
+}, {
+	"date": 1665709200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5856119163,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5856119163
+}, {
+	"date": 1665710100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6203462158,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6203462158
+}, {
+	"date": 1665711000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6161674718,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6161674718
+}, {
+	"date": 1665711900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7340499195,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7340499195
+}, {
+	"date": 1665712800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7994605475,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7994605475
+}, {
+	"date": 1665713700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0188566828,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0188566828
+}, {
+	"date": 1665714600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0722705314,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0722705314
+}, {
+	"date": 1665715500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0514653784,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0514653784
+}, {
+	"date": 1665716400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2103542673,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2103542673
+}, {
+	"date": 1665717300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2897665056,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2897665056
+}, {
+	"date": 1665718200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1165619968,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1165619968
+}, {
+	"date": 1665719100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1967552335,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1967552335
+}, {
+	"date": 1665720000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.3106360708,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.3106360708
+}, {
+	"date": 1665720900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2796296297,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2796296297
+}, {
+	"date": 1665721800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.018115942,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.018115942
+}, {
+	"date": 1665722700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9299758454,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9299758454
+}, {
+	"date": 1665723600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7992673107,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7992673107
+}, {
+	"date": 1665724500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7722222223,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7722222223
+}, {
+	"date": 1665725400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0260628019,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0260628019
+}, {
+	"date": 1665726300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0592096251,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0592096251
+}, {
+	"date": 1665727200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.3146953668,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.3146953668
+}, {
+	"date": 1665728100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2044202899,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2044202899
+}, {
+	"date": 1665729000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4949597423,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4949597423
+}, {
+	"date": 1665729900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4080917876,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4080917876
+}, {
+	"date": 1665730800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.7678502416,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.7678502416
+}, {
+	"date": 1665731700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.228272886,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.228272886
+}, {
+	"date": 1665732600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.3082884293,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.3082884293
+}, {
+	"date": 1665733500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.8049562245,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.8049562245
+}, {
+	"date": 1665734400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.8824770367,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.8824770367
+}, {
+	"date": 1665735300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.4239859608,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.4239859608
+}, {
+	"date": 1665736200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.3612472983,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.3612472983
+}, {
+	"date": 1665737100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.8204983796,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.8204983796
+}, {
+	"date": 1665738000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.1207415944,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.1207415944
+}, {
+	"date": 1665738900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7463579279,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7463579279
+}, {
+	"date": 1665739800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.2531994992,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.2531994992
+}, {
+	"date": 1665740700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.9941872935,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.9941872935
+}, {
+	"date": 1665741600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8484118109,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8484118109
+}, {
+	"date": 1665742500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.5951550439,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.5951550439
+}, {
+	"date": 1665743400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.1522249962,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.1522249962
+}, {
+	"date": 1665744300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.4307201148,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.4307201148
+}, {
+	"date": 1665745200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.6312288136,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.6312288136
+}, {
+	"date": 1665746100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.1255813543,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.1255813543
+}, {
+	"date": 1665747000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.0143933576,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.0143933576
+}, {
+	"date": 1665747900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.3017644346,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.3017644346
+}, {
+	"date": 1665748800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.2502224632,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.2502224632
+}, {
+	"date": 1665749700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.073216393,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.073216393
+}, {
+	"date": 1665750600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.8592395193,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.8592395193
+}, {
+	"date": 1665751500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.2094242397,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.2094242397
+}, {
+	"date": 1665752400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.9901894303,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.9901894303
+}, {
+	"date": 1665753300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.4670253084,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.4670253084
+}, {
+	"date": 1665754200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.0629137225,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.0629137225
+}, {
+	"date": 1665755100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.3043744469,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.3043744469
+}, {
+	"date": 1665756000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 10.1635518205,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -10.1635518205
+}, {
+	"date": 1665756900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.9467508707,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.9467508707
+}, {
+	"date": 1665757800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.5032480883,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.5032480883
+}, {
+	"date": 1665758700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.2362630044,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.2362630044
+}, {
+	"date": 1665759600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 9.1426795573,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -9.1426795573
+}, {
+	"date": 1665760500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7671102089,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7671102089
+}, {
+	"date": 1665761400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.7204457105,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.7204457105
+}, {
+	"date": 1665762300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 8.575777359,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -8.575777359
+}, {
+	"date": 1665763200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.8158498228,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.8158498228
+}, {
+	"date": 1665764100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 7.1105358132,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -7.1105358132
+}, {
+	"date": 1665765000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 6.1270172947,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -6.1270172947
+}, {
+	"date": 1665765900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 5.2808767537,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -5.2808767537
+}, {
+	"date": 1665766800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 4.426612497,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -4.426612497
+}, {
+	"date": 1665767700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.9211777145,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.9211777145
+}, {
+	"date": 1665768600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 3.2875447107,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -3.2875447107
+}, {
+	"date": 1665769500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.878617015,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.878617015
+}, {
+	"date": 1665770400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.5883030054,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.5883030054
+}, {
+	"date": 1665771300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 2.0081661292,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -2.0081661292
+}, {
+	"date": 1665772200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.623974298,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.623974298
+}, {
+	"date": 1665773100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2145642763,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2145642763
+}, {
+	"date": 1665774000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0650644122,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0650644122
+}, {
+	"date": 1665774900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.741505636,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.741505636
+}, {
+	"date": 1665775800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5716747182,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5716747182
+}, {
+	"date": 1665776700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5050080515,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5050080515
+}, {
+	"date": 1665777600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4782608696,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4782608696
+}, {
+	"date": 1665778500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4308615137,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4308615137
+}, {
+	"date": 1665779400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3347423511,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3347423511
+}, {
+	"date": 1665780300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3576811595,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3576811595
+}, {
+	"date": 1665781200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2597101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2597101449
+}, {
+	"date": 1665782100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3934460547,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3934460547
+}, {
+	"date": 1665783000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4301529791,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4301529791
+}, {
+	"date": 1665783900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4128260869,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4128260869
+}, {
+	"date": 1665784800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3191465378,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3191465378
+}, {
+	"date": 1665785700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3712721417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3712721417
+}, {
+	"date": 1665786600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5649677939,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5649677939
+}, {
+	"date": 1665787500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5510064412,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5510064412
+}, {
+	"date": 1665788400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.476626409,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.476626409
+}, {
+	"date": 1665789300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4879710144,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4879710144
+}, {
+	"date": 1665790200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4473268921,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4473268921
+}, {
+	"date": 1665791100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2030676329,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2030676329
+}, {
+	"date": 1665792000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1897101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1897101449
+}, {
+	"date": 1665792900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3592270531,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3592270531
+}, {
+	"date": 1665793800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.439726248,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.439726248
+}, {
+	"date": 1665794700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4363123994,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4363123994
+}, {
+	"date": 1665795600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4461513687,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4461513687
+}, {
+	"date": 1665796500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4459259259,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4459259259
+}, {
+	"date": 1665797400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3484299517,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3484299517
+}, {
+	"date": 1665798300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4037761675,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4037761675
+}, {
+	"date": 1665799200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.582173913,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.582173913
+}, {
+	"date": 1665800100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6114734299,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6114734299
+}, {
+	"date": 1665801000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7209903382,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7209903382
+}, {
+	"date": 1665801900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8919565217,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8919565217
+}, {
+	"date": 1665802800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4276972625,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4276972625
+}, {
+	"date": 1665803700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.5138325281,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.5138325281
+}, {
+	"date": 1665804600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1528180355,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1528180355
+}, {
+	"date": 1665805500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.255668277,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.255668277
+}, {
+	"date": 1665806400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1818276973,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1818276973
+}, {
+	"date": 1665807300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.088510467,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.088510467
+}, {
+	"date": 1665808200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9724074074,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9724074074
+}, {
+	"date": 1665809100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9082447665,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9082447665
+}, {
+	"date": 1665810000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0584541063,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0584541063
+}, {
+	"date": 1665810900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9316827697,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9316827697
+}, {
+	"date": 1665811800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8528180354,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8528180354
+}, {
+	"date": 1665812700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9237278583,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9237278583
+}, {
+	"date": 1665813600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0922061192,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0922061192
+}, {
+	"date": 1665814500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0466344606,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0466344606
+}, {
+	"date": 1665815400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2174879227,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2174879227
+}, {
+	"date": 1665816300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2349033816,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2349033816
+}, {
+	"date": 1665817200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.197721417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.197721417
+}, {
+	"date": 1665818100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1721739131,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1721739131
+}, {
+	"date": 1665819000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2607568438,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2607568438
+}, {
+	"date": 1665819900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.3917149759,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.3917149759
+}, {
+	"date": 1665820800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2661272142,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2661272142
+}, {
+	"date": 1665821700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4236392914,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4236392914
+}, {
+	"date": 1665822600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4935185185,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4935185185
+}, {
+	"date": 1665823500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2329629629,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2329629629
+}, {
+	"date": 1665824400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9445491143,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9445491143
+}, {
+	"date": 1665825300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.082584541,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.082584541
+}, {
+	"date": 1665826200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0434943638,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0434943638
+}, {
+	"date": 1665827100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9362721417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9362721417
+}, {
+	"date": 1665828000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.904573269,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.904573269
+}, {
+	"date": 1665828900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8230032207,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8230032207
+}, {
+	"date": 1665829800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1260950081,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1260950081
+}, {
+	"date": 1665830700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.4965136876,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.4965136876
+}, {
+	"date": 1665831600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1514251208,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1514251208
+}, {
+	"date": 1665832500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8261755233,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8261755233
+}, {
+	"date": 1665833400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5595652174,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5595652174
+}, {
+	"date": 1665834300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.561199678,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.561199678
+}, {
+	"date": 1665835200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4448309179,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4448309179
+}, {
+	"date": 1665836100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4308695652,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4308695652
+}, {
+	"date": 1665837000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5819165023,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5819165023
+}, {
+	"date": 1665837900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6069907765,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6069907765
+}, {
+	"date": 1665838800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5293535908,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5293535908
+}, {
+	"date": 1665839700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4782608696,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4782608696
+}, {
+	"date": 1665840600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5150161031,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5150161031
+}, {
+	"date": 1665841500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.480394525,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.480394525
+}, {
+	"date": 1665842400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5579710145,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5579710145
+}, {
+	"date": 1665843300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4221095008,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4221095008
+}, {
+	"date": 1665844200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4246779388,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4246779388
+}, {
+	"date": 1665845100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5029307569,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5029307569
+}, {
+	"date": 1665846000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4652254429,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4652254429
+}, {
+	"date": 1665846900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4192431562,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4192431562
+}, {
+	"date": 1665847800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3188405797,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3188405797
+}, {
+	"date": 1665848700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2557004831,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2557004831
+}, {
+	"date": 1665849600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2391304348,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2391304348
+}, {
+	"date": 1665850500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2391304348,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2391304348
+}, {
+	"date": 1665851400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.308921095,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.308921095
+}, {
+	"date": 1665852300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3188405797,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3188405797
+}, {
+	"date": 1665853200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3188405797,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3188405797
+}, {
+	"date": 1665854100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3188405797,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3188405797
+}, {
+	"date": 1665855000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3188405797,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3188405797
+}, {
+	"date": 1665855900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1239774556,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1239774556
+}, {
+	"date": 1665856800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1253220612,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1253220612
+}, {
+	"date": 1665857700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1594202899,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1594202899
+}, {
+	"date": 1665858600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1594202899,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1594202899
+}, {
+	"date": 1665859500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1313769409,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1313769409
+}, {
+	"date": 1665860400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2271035429,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2271035429
+}, {
+	"date": 1665861300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2271035429,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2271035429
+}, {
+	"date": 1665862200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2271035429,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2271035429
+}, {
+	"date": 1665863100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2271035429,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2271035429
+}, {
+	"date": 1665864000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2412072771,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2412072771
+}, {
+	"date": 1665864900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1594202899,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1594202899
+}, {
+	"date": 1665865800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2400370678,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2400370678
+}, {
+	"date": 1665866700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2401267417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2401267417
+}, {
+	"date": 1665867600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3467612022,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3467612022
+}, {
+	"date": 1665868500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6271154695,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6271154695
+}, {
+	"date": 1665869400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.548596951,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.548596951
+}, {
+	"date": 1665870300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3406903487,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3406903487
+}, {
+	"date": 1665871200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4278884164,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4278884164
+}, {
+	"date": 1665872100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.379402104,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.379402104
+}, {
+	"date": 1665873000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1688304454,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1688304454
+}, {
+	"date": 1665873900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1183795597,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1183795597
+}, {
+	"date": 1665874800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3036694147,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3036694147
+}, {
+	"date": 1665875700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3210124099,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3210124099
+}, {
+	"date": 1665876600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4510486449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4510486449
+}, {
+	"date": 1665877500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3924396135,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3924396135
+}, {
+	"date": 1665878400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3817793881,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3817793881
+}, {
+	"date": 1665879300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4108132045,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4108132045
+}, {
+	"date": 1665880200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2939855072,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2939855072
+}, {
+	"date": 1665881100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2338244766,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2338244766
+}, {
+	"date": 1665882000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.118904992,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.118904992
+}, {
+	"date": 1665882900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1959017713,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1959017713
+}, {
+	"date": 1665883800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2391304348,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2391304348
+}, {
+	"date": 1665884700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2381561997,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2381561997
+}, {
+	"date": 1665885600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2274235104,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2274235104
+}, {
+	"date": 1665886500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1417310789,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1417310789
+}, {
+	"date": 1665887400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2817310789,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2817310789
+}, {
+	"date": 1665888300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5457809984,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5457809984
+}, {
+	"date": 1665889200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.145925926,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.145925926
+}, {
+	"date": 1665890100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.2914975845,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.2914975845
+}, {
+	"date": 1665891000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.148784219,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.148784219
+}, {
+	"date": 1665891900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.090668277,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.090668277
+}, {
+	"date": 1665892800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9758856683,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9758856683
+}, {
+	"date": 1665893700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8477938808,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8477938808
+}, {
+	"date": 1665894600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8941545894,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8941545894
+}, {
+	"date": 1665895500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.9321819646,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.9321819646
+}, {
+	"date": 1665896400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1193075683,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1193075683
+}, {
+	"date": 1665897300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0380515298,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0380515298
+}, {
+	"date": 1665898200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8938566827,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8938566827
+}, {
+	"date": 1665899100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0173671498,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0173671498
+}, {
+	"date": 1665900000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1196135265,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1196135265
+}, {
+	"date": 1665900900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1838244767,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1838244767
+}, {
+	"date": 1665901800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.1595893719,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.1595893719
+}, {
+	"date": 1665902700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0789855073,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0789855073
+}, {
+	"date": 1665903600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.190958132,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.190958132
+}, {
+	"date": 1665904500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 1.0350241546,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -1.0350241546
+}, {
+	"date": 1665905400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7733977456,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7733977456
+}, {
+	"date": 1665906300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5615136876,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5615136876
+}, {
+	"date": 1665907200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.300016103,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.300016103
+}, {
+	"date": 1665908100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2502254428,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2502254428
+}, {
+	"date": 1665909000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1816344606,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1816344606
+}, {
+	"date": 1665909900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2219484702,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2219484702
+}, {
+	"date": 1665910800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4226650563,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4226650563
+}, {
+	"date": 1665911700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5221900161,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5221900161
+}, {
+	"date": 1665912600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5626731079,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5626731079
+}, {
+	"date": 1665913500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7826731079,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7826731079
+}, {
+	"date": 1665914400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7952979066,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7952979066
+}, {
+	"date": 1665915300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6133011271,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6133011271
+}, {
+	"date": 1665916200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8474959742,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8474959742
+}, {
+	"date": 1665917100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.8531884058,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.8531884058
+}, {
+	"date": 1665918000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6130756844,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6130756844
+}, {
+	"date": 1665918900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6084782609,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6084782609
+}, {
+	"date": 1665919800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5337439614,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5337439614
+}, {
+	"date": 1665920700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6012721417,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6012721417
+}, {
+	"date": 1665921600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7092028986,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7092028986
+}, {
+	"date": 1665922500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5176006441,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5176006441
+}, {
+	"date": 1665923400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.652858293,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.652858293
+}, {
+	"date": 1665924300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7264895329,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7264895329
+}, {
+	"date": 1665925200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6376811594,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6376811594
+}, {
+	"date": 1665926100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6774718196,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6774718196
+}, {
+	"date": 1665927000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7173913043,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7173913043
+}, {
+	"date": 1665927900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7173913043,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7173913043
+}, {
+	"date": 1665928800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7577777778,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7577777778
+}, {
+	"date": 1665929700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6771819646,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6771819646
+}, {
+	"date": 1665930600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6376811594,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6376811594
+}, {
+	"date": 1665931500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.6376811594,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.6376811594
+}, {
+	"date": 1665932400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.662568438,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.662568438
+}, {
+	"date": 1665933300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.7069967794,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.7069967794
+}, {
+	"date": 1665934200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5915700483,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5915700483
+}, {
+	"date": 1665935100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.5088003221,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.5088003221
+}, {
+	"date": 1665936000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4782608696,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4782608696
+}, {
+	"date": 1665936900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.4272222222,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.4272222222
+}, {
+	"date": 1665937800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.3551529791,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.3551529791
+}, {
+	"date": 1665938700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2391304348,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2391304348
+}, {
+	"date": 1665939600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1967632851,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1967632851
+}, {
+	"date": 1665940500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.109621578,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.109621578
+}, {
+	"date": 1665941400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665942300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": 0.0
+}, {
+	"date": 1665943200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0528743961,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0528743961
+}, {
+	"date": 1665944100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665945000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665945900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665946800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665947700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665948600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665949500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665950400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665951300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665952200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0797101449,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0797101449
+}, {
+	"date": 1665953100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1428582931,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1428582931
+}, {
+	"date": 1665954000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1096054751,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1096054751
+}, {
+	"date": 1665954900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2978663447,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2978663447
+}, {
+	"date": 1665955800000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2391304348,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2391304348
+}, {
+	"date": 1665956700000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2590096618,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2590096618
+}, {
+	"date": 1665957600000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2120611916,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2120611916
+}, {
+	"date": 1665958500000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2284621579,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2284621579
+}, {
+	"date": 1665959400000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0395813205,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0395813205
+}, {
+	"date": 1665960300000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.057568438,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.057568438
+}, {
+	"date": 1665961200000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0479388083,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0479388083
+}, {
+	"date": 1665962100000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0162077295,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.0162077295
+}, {
+	"date": 1665963000000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.1961755233,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.1961755233
+}, {
+	"date": 1665963900000,
+	"power_out_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.2488566828,
+	"power_in_Grid&feaf5d83-ff32-4323-b3bd-a8d3ba0866bb": 0.0,
+	"power_comsuption_Charging station&1085dac2-d306-4e50-88b2-f634ec93e07a": -0.2488566828
+}]

@@ -1,4 +1,13 @@
-# import sys
+
+import io
+import os
+import re
+
+# add the project path to sys.path, so that model file can be found in .common/solve.py
+current_dir = os.path.dirname(os.path.abspath(__file__))
+root_path = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
+
+
 import base64
 import traceback
 from .Stream import Stream
@@ -8,15 +17,6 @@ from pyomo.environ import *
 from model.consumers import *
 from model.base_module import *
 from model.components import *
-import io
-import os
-import re
-
-# add the project path to sys.path, so that model file can be found in .common/solve.py
-current_dir = os.path.dirname(os.path.abspath(__file__))
-root_path = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
-# sys.path.append(parent_dir)
-
 
 class Optimization:
     def __init__(self, announcer) -> None:
@@ -59,7 +59,7 @@ class Optimization:
         self.stream.send_result('node',node.name, node.id,{
             'type':'data',
             'data':data,
-            'title': 'Power flow through node'
+            'title': 'Power in kW'
         })
 
     
@@ -118,7 +118,7 @@ class Optimization:
 
     def handle_solution(self, graphData):
         try:
-            self.stream.send_message('creating model...')
+            self.stream.send_message('Simulation got started.')
             graph = GraphData(graphData)
             model = ConcreteModel()
             self.model_params = read_params(os.path.join(
@@ -142,15 +142,16 @@ class Optimization:
                 elif 'node_dc' in elem['properties']:
                     elem_temp.add2node(self.get_node(nodes, elem, 'node_dc'))
                 elements.append(elem_temp)
-            self.stream.send_message('solving...')
+            self.stream.send_message('Simulating...')
             self.modelframe.solve('gurobi')
-            self.stream.send_success(f'Got result,NPV = {value(model.Obj)} EUR')
-            # self.stream.send_result('graphdata','','',graphData)
+            self.stream.send_success(f'Got result,NPV = {round(value(model.Obj),2)} EUR')
             for node in nodes:
                 self.handel_node_stream_data(node)
             for elem in elements:
                 self.handle_element_stream(elem)
+            self.stream.send_end()
 
         except Exception as e:
             self.stream.send_error(e)
+            self.stream.send_end()
             return 0

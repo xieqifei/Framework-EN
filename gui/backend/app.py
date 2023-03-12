@@ -25,13 +25,20 @@ announcer = MessageAnnouncer()
 def index():
     return app.send_static_file('index.html')
 
+
 @app.route('/solve', methods=['POST'])
 def solve_model():
     data = request.json
     optimization = Optimization(announcer)
     optimization.handle_solution(data)
     return {}, 200
- 
+
+
+@app.route('/test', methods=['POST'])
+def test_model():
+    data = request.json
+    
+    return {}, 200
 
 @app.route('/stream')
 def listen():

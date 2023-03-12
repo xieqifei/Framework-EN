@@ -19,11 +19,12 @@ const handleSelect = (key: string, keyPath: string[]) => {
       <el-header class="header">
         <!-- Logo -->
         <div class="header__logo">
-          <img src="./assets/logo.svg" alt="My App" />
+          <img src="./assets/logo.png" alt="My App" />
         </div>
         <div class="header_title">
-          Battery Sizing Optimization GUI
-
+          <h1>
+            Battery Sizing Optimization
+          </h1>
         </div>
 
        

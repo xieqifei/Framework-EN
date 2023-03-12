@@ -49,7 +49,7 @@
 
 .chart-container{
     width:60vw;
-    height:250px;
+    height:300px;
 }
 /* .large-chart-container{
     width:1500px;

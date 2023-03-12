@@ -2,24 +2,35 @@
     <el-container>
 
         <el-main>
+            <el-tabs type="border-card" class="demo-tabs">
 
-            <el-scrollbar height="75vh">
-                <el-skeleton style=" width:60vw;height:250px;" :loading="!resultDataStorage.length" animated>
-                    <template #template>
-                        <el-skeleton-item variant="image" style="width:60vw;height:250px;" />
+                <el-tab-pane label="Figures"> 
+                    <el-scrollbar height="75vh">
+                        <el-skeleton style=" width:60vw;height:250px;" :loading="!resultDataStorage.length" animated>
+                            <template #template>
+                                <el-skeleton-item variant="image" style="width:60vw;height:250px;" />
+                            </template>
+                        </el-skeleton>
+                        <div v-for="resultData in resultDataStorage">
+                            <ChartCard :data="resultData" />
+                        </div>
+                        <div class="floating-window" v-if="resultDataStorage.length">
+                            <div v-for="resultData in resultDataStorage">
+                                <a :href="'#' + resultData.name + ':' + resultData.result?.title">{{ resultData.name }}:{{
+                                    resultData.result?.title }}</a>
+                            </div>
+                        </div>
+                    </el-scrollbar>
+                </el-tab-pane>
+                <el-tab-pane label="Data">
+                    <el-table :data="tableData" style="width: 100%" stripe>
+                        <el-table-column prop="name" label="Name" width="180" />
+                        <el-table-column prop="variable" label="Variable" />
+                        <el-table-column prop="value" label="Value" width="180" />
+                </el-table>
+                </el-tab-pane>
+            </el-tabs>
 
-                    </template>
-                </el-skeleton>
-                <div v-for="resultData in resultDataStorage">
-                    <ChartCard :data="resultData" />
-                </div>
-                <div class="floating-window" v-if="resultDataStorage.length">
-                    <div v-for="resultData in resultDataStorage">
-                        <a :href="'#' + resultData.name + ':' + resultData.result?.title">{{ resultData.name }}:{{
-                            resultData.result?.title }}</a>
-                    </div>
-                </div>
-            </el-scrollbar>
         </el-main>
     </el-container>
 </template>
@@ -27,13 +38,23 @@
 <script setup lang="ts">
 import { ref, type Ref } from 'vue';
 import ChartCard from './ChartCard.vue'
-import { listenResult, listenMessage, listenError, listenSuccess, type ResultData } from '../utils/sse'
+import { SSE, type ResultData } from '../utils/sse'
 import { ElNotification } from "element-plus";
-const loading = ref(true)
+import {beautyLabelName} from '../utils/echarts'
 const resultDataStorage = ref<ResultData[]>([])
-listenMessage((data: { msg: string }) => {
+interface TableData{
+    name:string,
+    variable:string
+    value:number
+}
+const tableData = ref<TableData[]>([])
+const se = new SSE()
+se.listenMessage((data: { msg: string }) => {
     //clear Result container
-
+    if (data.msg.startsWith('Simulation got started')) {
+        resultDataStorage.value.length = 0
+        tableData.value.length = 0
+    }
     //send notification
     ElNotification({
         title: 'Message',
@@ -42,7 +63,7 @@ listenMessage((data: { msg: string }) => {
         showClose: false,
     })
 })
-listenError((data: { msg: string }) => {
+se.listenError((data: { msg: string }) => {
     //send error notification
     ElNotification({
         title: 'Error',
@@ -51,7 +72,7 @@ listenError((data: { msg: string }) => {
         showClose: false,
     })
 })
-listenSuccess((data: { msg: string }) => {
+se.listenSuccess((data: { msg: string }) => {
     //send success notification
     ElNotification({
         title: 'Success',
@@ -60,12 +81,22 @@ listenSuccess((data: { msg: string }) => {
         showClose: false,
     })
 })
-listenResult((data: ResultData) => {
+se.listenResult((data: ResultData) => {
     if (data.result.type == 'data') {
         console.log(data)
         resultDataStorage.value.push(data)
-    } else {
-        console.log(data)
+    } else if(data.result.type == 'variables'){
+        for(let key in data.result.data) {
+            let name = data.name
+            let variable = beautyLabelName(key);
+            let value = data.result.data[key].toFixed(3)
+            tableData.value.push({
+                name,
+                variable,
+                value
+        })
+        }
+        
     }
 })
 function test() {
@@ -99,7 +130,7 @@ function test() {
 
         }).catch(error => console.error(error));
 }
-test()
+// test()
 </script>
 
 <style scoped>

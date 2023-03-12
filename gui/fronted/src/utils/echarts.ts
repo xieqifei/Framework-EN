@@ -44,7 +44,7 @@ const getXAxisData = (data:PowerData[])=>{
     return xAxisData
 }
 
-const beautyLabelName = (name:string)=>{
+export const beautyLabelName = (name:string)=>{
     let newName = name.split('&')[0]
     newName = newName.replace('_out_',' output ')
     newName = newName.replace('_in_',' input ')
@@ -65,6 +65,10 @@ export const insertLineChart = (chartContainer:HTMLDivElement,resultData:ResultD
   
   // 配置选项
   const option = {
+    grid: {
+        top: '15%',
+        bottom: '15%'
+      },
     tooltip: {
         trigger: 'axis'
       },
@@ -77,7 +81,9 @@ export const insertLineChart = (chartContainer:HTMLDivElement,resultData:ResultD
     },
     yAxis: {
       type: 'value',
-      name: resultData.result.title
+      name: resultData.result.title,
+      nameLocation: 'middle',
+      nameRotate: 90,
     },
     series: yAxisDataSeries
   };

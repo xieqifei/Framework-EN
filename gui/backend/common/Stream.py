@@ -46,3 +46,6 @@ class Stream:
             'result':result
         }
         self.announcer.announce(self.pack_result(data))
+
+    def send_end(self):
+        self.announcer.announce(self.format_sse({'msg':'ok'},'end'))

@@ -111,6 +111,7 @@ onMounted(()=>{
         //get the model connected nodes
         nodeModels.value = [...getElementConnectedNodes(e.data)]
     })
+    
     // if a element connected to a node, then edit property of element
     lf.on('anchor:drop',({data,e,nodeModel,edgeModel})=>{
         if(edgeModel.sourceNode.type != 'node'){

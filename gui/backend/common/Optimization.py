@@ -38,22 +38,31 @@ class Optimization:
 
     def convert_fig_to_base64(self,fig):
         buffer = io.BytesIO()
-        fig.savefig(buffer, format='png')
+        fig.savefig(buffer, format='svg')
         buffer.seek(0)
         image_data = buffer.read()
         encoded_image = base64.b64encode(image_data).decode()
         # Use the base64-encoded string in an HTML <img> tag
-        img_src = 'data:image/png;base64,{}'.format(encoded_image)
+        img_src = 'data:image/svg+xml;base64,{}'.format(encoded_image)
         return img_src
 
-    def handel_node_stream(self, node):
+    def handel_node_stream_fig(self, node):
         fig = self.modelframe.get_node_powerflow_figure(node)
         img_src = self.convert_fig_to_base64(fig)
         self.stream.send_result('node', node.name, node.id, {
             'type': 'img',
-            'src': img_src
+            'data': img_src
+        })
+        
+    def handel_node_stream_data(self,node):
+        data = self.modelframe.get_node_powerflow_data(node)
+        self.stream.send_result('node',node.name, node.id,{
+            'type':'data',
+            'data':data,
+            'title': 'Power flow through node'
         })
 
+    
     def add_space_to_camel_case_string(self, s):
         """Convert camel case string to spaced string."""
         pattern = r'(?<!^)(?=[A-Z])'
@@ -75,10 +84,10 @@ class Optimization:
                 data[var_name] = value(single_var)
             self.stream.send_result(elem_type, elem.name, elem.id, {
                 'type': 'variables',
-                'src': data
+                'data': data
             })
 
-    def handle_element_series_variables(self, elem):
+    def handle_element_series_variables_figure(self, elem):
         elem_type = 'component' if isinstance(
             elem, ComponentAPI) else 'consumer'
         series_variables = elem.get_series_variables()
@@ -88,11 +97,23 @@ class Optimization:
             img_src = self.convert_fig_to_base64(fig)
             self.stream.send_result(elem_type, elem.name, elem.id, {
                 'type': 'img',
-                'src': img_src
+                'data': img_src
             })
 
+    def handle_element_series_variables_data(self, elem):
+        elem_type = 'component' if isinstance(
+            elem, ComponentAPI) else 'consumer'
+        series_variables = elem.get_series_variables()
+        for series_variable in series_variables:
+            data = self.modelframe.get_comp_powerflow_data(
+                series_variable['ylabel'], *series_variable['components'])
+            self.stream.send_result(elem_type, elem.name, elem.id, {
+                'type': 'data',
+                'data': data,
+                'title':series_variable['ylabel']
+            })
     def handle_element_stream(self, elem):
-        self.handle_element_series_variables(elem)
+        self.handle_element_series_variables_data(elem)
         self.handle_element_single_variables(elem)
 
     def handle_solution(self, graphData):
@@ -123,11 +144,10 @@ class Optimization:
                 elements.append(elem_temp)
             self.stream.send_message('solving...')
             self.modelframe.solve('gurobi')
-            self.stream.send_message('get result.')
-            self.stream.send_message(f'NPV: {value(model.Obj)}')
+            self.stream.send_success(f'Got result,NPV = {value(model.Obj)} EUR')
             # self.stream.send_result('graphdata','','',graphData)
             for node in nodes:
-                self.handel_node_stream(node)
+                self.handel_node_stream_data(node)
             for elem in elements:
                 self.handle_element_stream(elem)
 

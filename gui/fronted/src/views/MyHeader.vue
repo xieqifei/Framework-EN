@@ -1,11 +1,11 @@
 <template>
   <el-header class="header">
       <!-- Logo -->
-      <!-- <div class="header__logo">
+      <div class="header__logo">
         <img src="../assets/logo.svg" alt="My App" />
-      </div> -->
+      </div>
       Header
-      <!-- <el-menu
+      <el-menu
         :default-active="activeIndex"
         class="el-menu-demo"
         mode="horizontal"
@@ -14,7 +14,7 @@
       >
       <el-menu-item index="0">Dashboard</el-menu-item>
       <el-menu-item index="1">Result</el-menu-item>
-    </el-menu> -->
+    </el-menu>
   </el-header>
 </template>
 

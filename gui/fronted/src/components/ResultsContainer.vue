@@ -16,7 +16,7 @@
                         </div>
                         <div class="floating-window" v-if="resultDataStorage.length">
                             <div v-for="resultData in resultDataStorage">
-                                <a :href="'#' + resultData.name + ':' + resultData.result?.title">{{ resultData.name }}:{{
+                                <a :href="'#' + resultData.name + ':' + resultData.id">{{ resultData.name }}:{{
                                     resultData.result?.title }}</a>
                             </div>
                         </div>

@@ -80,7 +80,7 @@ class Optimization:
                 var_name = single_var.getname()
                 var_name = var_name.replace(f'&{elem.id}', '')
                 var_name = var_name.replace("_", ' ')
-                var_name = self.add_space_to_camel_case_string(var_name)
+                # var_name = self.add_space_to_camel_case_string(var_name)
                 data[var_name] = value(single_var)
             self.stream.send_result(elem_type, elem.name, elem.id, {
                 'type': 'variables',

@@ -25,6 +25,9 @@ class Stream:
     def pack_result(self,data:dict):
         return self.format_sse(data,'result')
 
+    def pack_success(self,msg:str):
+        data = {'msg':msg}
+        return self.format_sse(data,'success')
 
     def send_message(self,msg):
         # msg = f'{msg}'
@@ -36,7 +39,7 @@ class Stream:
         
     def send_success(self,msg):
         data = {'msg':msg}
-        self.announcer.announce(self.pack_message(self.format_sse(data,'success')))
+        self.announcer.announce(self.pack_success(msg))
         
     def send_result(self,type:str,name:str,id:str,result:dict):
         data = {

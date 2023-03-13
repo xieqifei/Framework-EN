@@ -67,7 +67,7 @@ export const insertLineChart = (chartContainer:HTMLDivElement,resultData:ResultD
   const option = {
     grid: {
         top: '15%',
-        bottom: '15%'
+        bottom: '15%',
       },
     tooltip: {
         trigger: 'axis'
@@ -84,6 +84,7 @@ export const insertLineChart = (chartContainer:HTMLDivElement,resultData:ResultD
       name: resultData.result.title,
       nameLocation: 'middle',
       nameRotate: 90,
+      nameGap:30
     },
     series: yAxisDataSeries
   };

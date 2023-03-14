@@ -16,7 +16,7 @@
                         </div>
                         <div class="floating-window" v-if="resultDataStorage.length">
                             <div v-for="resultData in resultDataStorage">
-                                <a :href="'#' + resultData.name + ':' + resultData.id">{{ resultData.name }}:{{
+                                <a :href="'#' + resultData.name+resultData.id+resultData.result.title">{{ resultData.name }}:{{
                                     resultData.result?.title }}</a>
                             </div>
                         </div>
@@ -48,7 +48,10 @@ interface TableData{
     value:number
 }
 const tableData = ref<TableData[]>([])
-const se = new SSE()
+const props = defineProps({
+    se:SSE
+})
+const se = props.se as SSE
 se.listenMessage((data: { msg: string }) => {
     //clear Result container
     if (data.msg.startsWith('Simulation got started')) {

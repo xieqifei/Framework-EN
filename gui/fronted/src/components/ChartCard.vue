@@ -3,7 +3,7 @@
         <el-card class = 'chart-card'>
             <template #header>
             <div class="card-header">
-                <a :name="data.name+':'+data.id"></a>
+                <a :name="data.name+data.id+data.result.title"></a>
                 <span>{{ data.name }}:{{ data.result?.title }}</span>
                 <!-- <el-button class="button" :icon="FullScreen" circle @click="showLargeChart"></el-button> -->
             </div>

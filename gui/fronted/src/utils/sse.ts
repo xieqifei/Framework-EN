@@ -17,7 +17,7 @@ export class SSE{
     constructor(){
         this.es = new EventSource('/stream');
         this.es.addEventListener('end',function(e:MessageEvent){
-        //    this.close()
+           this.close()
         })
     }
 

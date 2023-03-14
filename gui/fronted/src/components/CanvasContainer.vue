@@ -54,6 +54,7 @@ const nodeModels = ref<(BaseNodeModel | null)[]>([])
 
 const nodeCompute = computed(() => elemModel.value);    
 
+const emit = defineEmits(['triggerSSE'])
 onMounted(()=>{
     const lf = new LogicFlow({
       container: container.value as HTMLElement,
@@ -73,7 +74,9 @@ onMounted(()=>{
         iconClass: 'lf-control-simulate',
         text: "Simulate",
         onClick: () => {
+            emit('triggerSSE')
             solveModel()
+
         }
         }
     )
@@ -111,7 +114,7 @@ onMounted(()=>{
         //get the model connected nodes
         nodeModels.value = [...getElementConnectedNodes(e.data)]
     })
-    
+
     // if a element connected to a node, then edit property of element
     lf.on('anchor:drop',({data,e,nodeModel,edgeModel})=>{
         if(edgeModel.sourceNode.type != 'node'){

@@ -11,6 +11,9 @@
               :value="node.id"
             />
           </el-select>
+          <el-input v-else-if="typeof param.value === 'number' && !isNaN(param.value)" v-model.number="param.value" type="number">
+            <template #append v-if="param.unit ">{{ param.unit }}</template>
+          </el-input>
           <el-input v-else v-model="param.value" >
             <template #append v-if="param.unit ">{{ param.unit }}</template>
           </el-input>

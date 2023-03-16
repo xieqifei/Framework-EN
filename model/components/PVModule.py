@@ -44,7 +44,7 @@ class PVModule(ComponentAPI):
             self.m.time_step_count, rule=_cell_tempe_expr))
         self.m.add_component(f'PowerMaxGenerationConstraints{self.name}&{self.id}', Constraint(self.m.time_step_count, rule=lambda m, t: m.component(f'power_out_{self.name}&{self.id}')[t] <= m.component(f'module_number_{self.name}&{self.id}')*m.component(f'module_area_{self.name}&{self.id}')*m.component(f'irradiance_real_{self.name}&{self.id}')[
                              t]/m.component(f'irradiance_stc_{self.name}&{self.id}')*m.component(f'efficiency_module_{self.name}&{self.id}')*m.component(f'power_stc_{self.name}&{self.id}')*(1-m.component(f'temperature_coefficient_{self.name}&{self.id}')*(m.component(f'temperature_cell_{self.name}&{self.id}')[t]-m.component(f'temperature_cell_stc_{self.name}&{self.id}')))))
-        self.m.add_component(f'AreaMaxConstraint', Constraint(
+        self.m.add_component(f'AreaMaxConstraint{self.name}&{self.id}', Constraint(
             expr=self.m.component(f'module_number_{self.name}&{self.id}') <= self.m.component(f'area_max_{self.name}&{self.id}')/self.m.component(f'module_area_{self.name}&{self.id}')))
 
     def _add_investment_cost(self,):

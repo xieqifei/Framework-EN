@@ -1,3 +1,4 @@
-from model.scenarios import *
+from gui.backend import app
 
-run_with_bss_and_pv()
+
+app.run()

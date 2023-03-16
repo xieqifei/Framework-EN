@@ -9,9 +9,8 @@ sys.path.append(parent_dir)
 
 from flask import Flask, Response, request
 from flask_cors import CORS
-import json
-from common import MessageAnnouncer
-from common import Optimization
+from .common import MessageAnnouncer
+from .common import Optimization
 
 DEBUG = True
  
@@ -59,5 +58,5 @@ def fallback(fallback):       # Vue Router 的 mode 为 'hash' 时可移除该�
         return app.send_static_file('index.html')
  
  
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()

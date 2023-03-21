@@ -12,6 +12,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.colors import LightSource
+import textwrap
 
 
 class ModelTest:
@@ -79,8 +80,8 @@ class ModelTest:
         
     
     def _histogram3D(self,xData,yData,zData,xlabel=None,ylabel=None,zlabel=None,azdeg=315,isNPV=False):
-        
-        
+        # params = {'font.size': 18}
+        # plt.rcParams.update(params)
         fig = plt.figure(figsize=(6, 5),dpi=300)  # 画布宽长比例
         ax1 = fig.add_subplot(111, projection='3d')
         zData = np.array(zData)
@@ -88,9 +89,12 @@ class ModelTest:
             zData = zData/1e5
         bottom = np.zeros_like(zData)
         bottom = min(zData)
-        ax1.set_xlabel(xlabel,fontsize=10)# type: ignore   
-        ax1.set_ylabel(ylabel,fontsize=10)# type: ignore   
-        ax1.set_zlabel(zlabel,fontsize=11)# type: ignore 
+        xlabel = textwrap.fill(xlabel, width=19)
+        ylabel = textwrap.fill(ylabel, width=19)
+        zlabel = textwrap.fill(zlabel, width=19)
+        ax1.set_xlabel(xlabel,fontsize = 15,labelpad=8)# type: ignore   
+        ax1.set_ylabel(ylabel,fontsize = 15,labelpad=8)# type: ignore   
+        ax1.set_zlabel(zlabel,fontsize = 15,labelpad=8)# type: ignore 
         # ax1.invert_yaxis()
         
         invert_x,invert_y = self._determine_inverted_state(xData,yData,zData)
@@ -116,7 +120,7 @@ class ModelTest:
             colors = plt.cm.jet((dz.flatten() - dz.min()))        
         
         ax1.bar3d(xData, yData, bottom, dx = dx, dy = dy, dz=np.array(zData)-bottom,shade=True ,color=colors,lightsource=lightsource)# type: ignore    
-        cbar = fig.colorbar(plt.cm.ScalarMappable(cmap = 'jet'), ax = ax1,ticks=[0, 0.5, 1], pad=0.1)
+        cbar = fig.colorbar(plt.cm.ScalarMappable(cmap = 'jet'), ax = ax1,ticks=[0, 0.5, 1], pad=0.2)
         cbar.ax.set_yticklabels([round(dz.min(),2),round((dz.min()+dz.max())/2,2),round(dz.max(),2)])
         return plt
     

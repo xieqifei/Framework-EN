@@ -36,7 +36,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 224,
-                    "y": 464,
+                    "y": 400,
                     "value": "Grid"
                 }
             },
@@ -97,7 +97,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 419,
-                    "y": 584,
+                    "y": 510,
                     "value": "Charging station"
                 }
             },
@@ -120,7 +120,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 640,
-                    "y": 584,
+                    "y": 510,
                     "value": "Company"
                 }
             },
@@ -203,7 +203,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 348,
-                    "y": 114,
+                    "y": 44,
                     "value": "BSS"
                 }
             },
@@ -249,7 +249,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 738,
-                    "y": 294,
+                    "y": 224,
                     "value": "Inverter"
                 }
             },
@@ -322,7 +322,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 735,
-                    "y": 144,
+                    "y": 74,
                     "value": "PV Module"
                 }
             },
@@ -368,7 +368,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 270,
-                    "y": 272,
+                    "y": 202,
                     "value": "Power conversion system"
                 }
             }

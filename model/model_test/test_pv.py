@@ -83,7 +83,7 @@ def run_model_test():
 def run_3d_bar_build():
     test = ModelTest('a')
     # test.show_3d_chart(r'temp\test_v2\pricing_test_pv2.csv','power_capacity_BSS&wUoLpgMbHN','Peak demand rate(€/a)','PV investment cost(€/kW)')
-    test.save_3d_chart(r'temp\test_v2\pricing_test_pv2.csv',r'temp\test_v2\bar3d','Peak demand rate(€/a)','PV investment cost(€/kW)')
+    test.save_3d_chart(r'temp\test_v2\pricing_test_pv2.csv',r'temp\test_v2\bar3d','Peak demand rate(€/kW/a)','PV investment cost(€/kW)')
 run_3d_bar_build()
 # run_model_test()
 

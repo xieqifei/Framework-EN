@@ -7,8 +7,8 @@
     "temperature_coefficient":0.003,
     "temperature_cell_stc":25,
     "temperature_noc":44,
-    "area_max":200,
-    "price_invest_per_kw":2000,
+    "area_max":9000,
+    "price_invest_per_kw":1500,
     "node_dc":"node_dc",
     "ambient_temperature_filepath":"model/data/ambient_temp.json",
     "global_irradiance_filepath":"model/data/irradiance.json"

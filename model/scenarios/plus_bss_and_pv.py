@@ -60,9 +60,6 @@ def run_with_bss_and_pv():
     pcs = PowerConversionSystem(model,'PCS',pcs_params)
     pcs.add2node(node_acbus,node_bss2pcs)
 
-
-    model.component(f'module_number_{pv_module.name}&{pv_module.id}').fix(200)
-    # model.component(f'energy_capacity_{bss.name}').fix(3)
     modelframe.solve('gurobi')
     print('NPV:',value(model.Obj))
     print("pv_module_number:",value(model.component(f'module_number_{pv_module.name}&{pv_module.id}')))
@@ -95,13 +92,9 @@ def run_with_bss_and_pv():
         return f'power_{suffix}'
     # integrate grid
     power_grid = integrate_power(f'power_out_{grid.name}&{grid.id}',f'power_in_{grid.name}&{grid.id}','grid')
-    power_bss = integrate_power(f'power_out_{bss.name}&{bss.id}',f'power_in_{bss.name}&{bss.id}','bss')
+    power_bss = integrate_power(f'power_out_{bss.name}&{bss.id}',f'power_in_{bss.name}&{bss.id}','BSS')
 
     modelframe.save_line_chart(r"temp\result_with_bss_and_pv.png",power_grid,power_bss,f'power_out_{pv_module.name}&{pv_module.id}',convert_power(f'power_comsuption_{charge_station.name}&{charge_station.id}'),convert_power(f'power_comsuption_{company.name}&{company.id}'))
     modelframe.save_line_chart(r'temp\result_with_bss_and_pv_energy.png',f'RemainingEnergyExpression{bss.name}&{bss.id}')
 
-
-
-
-    
 run_with_bss_and_pv()

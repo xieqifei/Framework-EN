@@ -1,3 +1,12 @@
+
+import sys
+import os
+
+# add the project path to sys.path, so that model file can be found in .common/solve.py 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir =os.path.dirname(os.path.dirname(current_dir))
+sys.path.append(parent_dir)
+
 from pyomo.environ import *
 from model.components import *
 from model.base_module import *
@@ -34,8 +43,6 @@ def run_with_pv():
     pv_params = read_params('model/params/pvmodule.json')
     pv_module =  PVModule(model,'PV_module',pv_params)
     pv_module.add2node(node_pv2inverter)
-    model.component(f'module_number_{pv_module.comp_name}').fix(200)
-    # model.component(f'energy_capacity_{bss.comp_name}').fix(3)
     
     # create inverter and add to ac bus and a dc bus node_pv2inverter
     inv_params = read_params('model/params/inverter.json')
@@ -44,9 +51,9 @@ def run_with_pv():
 
     modelframe.solve('gurobi')
     print('NPV:',value(model.Obj))
-    print("pv_module_number:",value(model.component(f'module_number_{pv_module.comp_name}')))
-    print("grid max power flow:",value(model.component(f'power_peak_{grid.comp_name}')))
-    print('rated power of inverter',value(model.component(f'power_rated_{solar_inverter.comp_name}')))
+    print("pv_module_number:",value(model.component(f'module_number_{pv_module.name}&{pv_module.id}')))
+    print("grid max power flow:",value(model.component(f'power_peak_{grid.name}&{grid.id}')))
+    print('rated power of inverter',value(model.component(f'power_rated_{solar_inverter.name}&{solar_inverter.id}')))
     def convert_power(power_str):
         power_neg_val = [value(model.component(power_str)[i]) for i in model.component(power_str)]
         power_neg = {}
@@ -71,6 +78,8 @@ def run_with_pv():
         model.add_component(f'power_{suffix}',Param(model.time_step_count,initialize=power_intergrated))
         return f'power_{suffix}'
     # integrate grid
-    power_grid = integrate_power(f'power_out_{grid.comp_name}',f'power_in_{grid.comp_name}','grid')
+    power_grid = integrate_power(f'power_out_{grid.name}&{grid.id}',f'power_in_{grid.name}&{grid.id}','grid')
 
-    modelframe.save_line_chart(r'sources\result_figures\final_figure\result_with_pv.png',power_grid,f'power_out_{pv_module.comp_name}',convert_power(f'power_comsuption_{charge_station.coms_name}'),convert_power(f'power_comsuption_{company.coms_name}'))
+    modelframe.save_line_chart(r'temp\result_with_pv.png',power_grid,f'power_out_{pv_module.name}&{pv_module.id}',convert_power(f'power_comsuption_{charge_station.name}&{charge_station.id}'),convert_power(f'power_comsuption_{company.name}&{company.id}'))
+
+run_with_pv()

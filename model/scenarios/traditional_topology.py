@@ -1,3 +1,13 @@
+
+import sys
+import os
+
+# add the project path to sys.path, so that model file can be found in .common/solve.py 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir =os.path.dirname(os.path.dirname(current_dir))
+sys.path.append(parent_dir)
+
+
 from pyomo.environ import *
 from model.components import *
 from model.base_module import *
@@ -35,7 +45,7 @@ def run_traditional_topology():
 
     modelframe.solve('gurobi')
     print('NPV:',value(model.Obj))
-    print("grid max power flow:",value(model.component(f'power_peak_{grid.comp_name}')))
+    print("grid max power flow:",value(model.component(f'power_peak_{grid.name}&{grid.id}')))
 
     def convert_power(power_str):
         power_neg_val = [value(model.component(power_str)[i]) for i in model.component(power_str)]
@@ -61,7 +71,8 @@ def run_traditional_topology():
         model.add_component(f'power_{suffix}',Param(model.time_step_count,initialize=power_intergrated))
         return f'power_{suffix}'
     # integrate grid
-    power_grid = integrate_power(f'power_out_{grid.comp_name}',f'power_in_{grid.comp_name}','grid')
+    power_grid = integrate_power(f'power_out_{grid.name}&{grid.id}',f'power_in_{grid.name}&{grid.id}','grid')
 
-    modelframe.save_line_chart(r"sources\result_figures\final_figure\result_simple.png",power_grid,convert_power(f'power_comsuption_{charge_station.coms_name}'),convert_power(f'power_comsuption_{company.coms_name}'))
+    modelframe.save_line_chart(r"temp\result_simple.png",power_grid,convert_power(f'power_comsuption_{charge_station.name}&{charge_station.id}'),convert_power(f'power_comsuption_{company.name}&{company.id}'))
     
+run_traditional_topology()

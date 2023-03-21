@@ -7,8 +7,8 @@ const params =  {
     "temperature_coefficient":{'value':0.003,'name':'Temperature coefficient of power of PV module','unit':''},
     "temperature_cell_stc":{'value':25,'name':'Cell temperatureunder standard test condition','unit':'℃'},
     "temperature_noc":{'value':44,'name':'Nominal operation cell temperature','unit':'℃'},
-    "area_max":{'value':200,'name':'Maximum available installation area','unit':'m^2'},
-    "price_invest_per_kw":{'value':2000,'name':'Investment cost of PV module per kW','unit':'EUR'},
+    "area_max":{'value':9999,'name':'Maximum available installation area','unit':'m^2'},
+    "price_invest_per_kw":{'value':1500,'name':'Investment cost of PV module per kW','unit':'EUR'},
     "ambient_temperature_filepath":{'value':"model/data/ambient_temp.json",'name':'Path of ambient temperature data','unit':''},
     "global_irradiance_filepath":{'value':"model/data/irradiance.json",'name':'Path of global irradiance data','unit':''}
 }

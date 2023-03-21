@@ -25,7 +25,6 @@ class Grid(ComponentAPI):
             self.m.time_step_count, domain=Binary))
         self.m.add_component(f'binary_variables_two_{self.name}&{self.id}', Var(
             self.m.time_step_count, domain=Binary))
-
         
         self.m.add_component(f'abs_temp_variable_in_{self.name}&{self.id}',Var(self.m.time_step_count,domain = NonNegativeReals))
         self.m.add_component(f'abs_temp_variable_out_{self.name}&{self.id}',Var(self.m.time_step_count,domain = NonNegativeReals))
@@ -38,17 +37,17 @@ class Grid(ComponentAPI):
             within=NonNegativeReals, initialize=self.params['cost_grid_connection']))
         self.m.add_component(f'peak_demand_rate_{self.name}&{self.id}', Param(mutable=True,
                                                                            within=NonNegativeReals, initialize=self.params['peak_demand_rate']))
-        self.m.add_component(f'ele_price_sell_{self.name}&{self.id}', Param(mutable=True,
-                                                                       within=NonNegativeReals, initialize=self.params['ele_price_sell']))
-        self.m.add_component(f'ele_price_buy_{self.name}&{self.id}', Param(mutable=True,
-                                                                      within=NonNegativeReals, initialize=self.params['ele_price_buy']))
+        # self.m.add_component(f'ele_price_sell_{self.name}&{self.id}', Param(mutable=True,
+        #                                                                within=NonNegativeReals, initialize=self.params['ele_price_sell']))
+        self.m.add_component(f'ele_price_{self.name}&{self.id}', Param(mutable=True,
+                                                                      within=NonNegativeReals, initialize=self.params['ele_price']))
         self.m.add_component(f'maximal_allowed_power_change_{self.name}&{self.id}',Param(mutable=True, initialize=1,within=NonNegativeReals))
 
     def _set_constraints(self,):
         self.m.add_component(f'PowerOutMaxConstraint{self.name}&{self.id}', Constraint(
             self.m.time_step_count, rule=lambda m, t: m.component(f'power_out_{self.name}&{self.id}')[t] <= m.component(f'power_peak_{self.name}&{self.id}')))
-        self.m.add_component(f'PowerInMaxConstraint{self.name}&{self.id}', Constraint(
-            self.m.time_step_count, rule=lambda m, t: m.component(f'power_in_{self.name}&{self.id}')[t] <= m.component(f'power_peak_{self.name}&{self.id}')))
+        # self.m.add_component(f'PowerInMaxConstraint{self.name}&{self.id}', Constraint(
+        #     self.m.time_step_count, rule=lambda m, t: m.component(f'power_in_{self.name}&{self.id}')[t] <= m.component(f'power_peak_{self.name}&{self.id}')))
         self.m.add_component(f'PowerMaxConstraint{self.name}&{self.id}', Constraint(expr=self.m.component(
             f'power_peak_{self.name}&{self.id}') <= self.m.component(f'power_max_allowed_{self.name}&{self.id}')))
 
@@ -65,13 +64,13 @@ class Grid(ComponentAPI):
             f'cost_connection_{self.name}&{self.id}')
 
     def _add_annual_cashflow(self):
-        # annual cash inflow, energy sell to grid
-        self.m.cashflow += self.m.scale_factor_week2year * self.m.component(f'ele_price_sell_{self.name}&{self.id}') *\
+        # annual cash inflow, energy sell to grid, feed in tarif is 0.9 times electricity price
+        self.m.cashflow += self.m.scale_factor_week2year * 0.9 * self.m.component(f'ele_price_{self.name}&{self.id}') *\
             summation(self.m.component(f'power_in_{self.name}&{self.id}')) * \
             self.m.time_intervel_hour
         # annual cash outflow, purchase energy from grid
         self.m.cashflow -= self.m.scale_factor_week2year * \
-            self.m.time_intervel_hour * self.m.component(f'ele_price_buy_{self.name}&{self.id}') *\
+            self.m.time_intervel_hour * self.m.component(f'ele_price_{self.name}&{self.id}') *\
             summation(self.m.component(
                 f'power_out_{self.name}&{self.id}'))
         # peak demand charge

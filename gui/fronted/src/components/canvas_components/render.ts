@@ -28,20 +28,15 @@ export default (lf:LogicFlow)=>{
                         "name": "Annual peak demand rate",
                         "unit": "EUR"
                     },
-                    "ele_price_buy": {
+                    "ele_price": {
                         "value": 0.34,
                         "name": "Electricity price",
-                        "unit": "EUR"
-                    },
-                    "ele_price_sell": {
-                        "value": 0.28,
-                        "name": "Feed-in tarif",
                         "unit": "EUR"
                     }
                 },
                 "text": {
                     "x": 224,
-                    "y": 400,
+                    "y": 464,
                     "value": "Grid"
                 }
             },
@@ -52,7 +47,7 @@ export default (lf:LogicFlow)=>{
                 "y": 400,
                 "properties": {
                     "name": {
-                        "value": "AC Node",
+                        "value": "ac",
                         "name": "Node text",
                         "unit": ""
                     }
@@ -102,7 +97,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 419,
-                    "y": 520,
+                    "y": 584,
                     "value": "Charging station"
                 }
             },
@@ -125,7 +120,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 640,
-                    "y": 520,
+                    "y": 584,
                     "value": "Company"
                 }
             },
@@ -208,7 +203,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 348,
-                    "y": 50,
+                    "y": 114,
                     "value": "BSS"
                 }
             },
@@ -219,7 +214,7 @@ export default (lf:LogicFlow)=>{
                 "y": 200,
                 "properties": {
                     "name": {
-                        "value": "DC Node BSS",
+                        "value": "node_holder",
                         "name": "Node text",
                         "unit": ""
                     }
@@ -254,7 +249,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 738,
-                    "y": 230,
+                    "y": 294,
                     "value": "Inverter"
                 }
             },
@@ -305,12 +300,12 @@ export default (lf:LogicFlow)=>{
                         "unit": "℃"
                     },
                     "area_max": {
-                        "value": 200,
+                        "value": 9999,
                         "name": "Maximum available installation area",
                         "unit": "m^2"
                     },
                     "price_invest_per_kw": {
-                        "value": 2000,
+                        "value": 1500,
                         "name": "Investment cost of PV module per kW",
                         "unit": "EUR"
                     },
@@ -327,7 +322,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 735,
-                    "y": 80,
+                    "y": 144,
                     "value": "PV Module"
                 }
             },
@@ -338,7 +333,7 @@ export default (lf:LogicFlow)=>{
                 "y": 220,
                 "properties": {
                     "name": {
-                        "value": "DC Node PV",
+                        "value": "node_holder",
                         "name": "Node text",
                         "unit": ""
                     }
@@ -373,7 +368,7 @@ export default (lf:LogicFlow)=>{
                 },
                 "text": {
                     "x": 270,
-                    "y": 208,
+                    "y": 272,
                     "value": "Power conversion system"
                 }
             }

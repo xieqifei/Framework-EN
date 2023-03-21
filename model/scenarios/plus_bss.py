@@ -1,3 +1,12 @@
+
+import sys
+import os
+
+# add the project path to sys.path, so that model file can be found in .common/solve.py 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir =os.path.dirname(os.path.dirname(current_dir))
+sys.path.append(parent_dir)
+
 from pyomo.environ import *
 from model.components import *
 from model.base_module import *
@@ -44,10 +53,10 @@ def run_with_bss_topology():
     modelframe.solve('gurobi')
 
     print('NPV:',value(model.Obj))
-    print("bss power cap:",value(model.component(f'power_capacity_{bss.comp_name}')))
-    print("bss energy cap:",value(model.component(f'energy_capacity_{bss.comp_name}')))
-    print("grid max power flow:",value(model.component(f'power_peak_{grid.comp_name}')))
-    print("total power variation",value(model.component(f'TotalPowerVariation{bss.comp_name}')))
+    print("bss power cap:",value(model.component(f'power_capacity_{bss.name}&{bss.id}')))
+    print("bss energy cap:",value(model.component(f'energy_capacity_{bss.name}&{bss.id}')))
+    print("grid max power flow:",value(model.component(f'power_peak_{grid.name}&{grid.id}')))
+    print("total power variation",value(model.component(f'TotalPowerVariation{bss.name}&{bss.id}')))
 
     def convert_power(power_str):
         power_neg_val = [value(model.component(power_str)[i]) for i in model.component(power_str)]
@@ -73,13 +82,12 @@ def run_with_bss_topology():
         model.add_component(f'power_{suffix}',Param(model.time_step_count,initialize=power_intergrated))
         return f'power_{suffix}'
     # integrate grid
-    power_grid = integrate_power(f'power_out_{grid.comp_name}',f'power_in_{grid.comp_name}','grid')
-    power_bss = integrate_power(f'power_out_{bss.comp_name}',f'power_in_{bss.comp_name}','bss')
+    power_grid = integrate_power(f'power_out_{grid.name}&{grid.id}',f'power_in_{grid.name}&{grid.id}','grid')
+    power_bss = integrate_power(f'power_out_{bss.name}&{bss.id}',f'power_in_{bss.name}&{bss.id}','BSS')
 
-    modelframe.save_line_chart(r'sources\result_figures\final_figure\result_with_bss.png',power_grid,power_bss,convert_power(f'power_comsuption_{charge_station.coms_name}'),convert_power(f'power_comsuption_{company.coms_name}'))
-    modelframe.save_line_chart( r'sources\result_figures\final_figure\result_with_bss_energy.png',f'RemainingEnergyExpression{bss.comp_name}',ylabel='remaining energy in BSS (kWh)')
+    modelframe.save_line_chart(r'temp\result_with_bss.png',power_grid,power_bss,convert_power(f'power_comsuption_{charge_station.name}&{charge_station.id}'),convert_power(f'power_comsuption_{company.name}&{company.id}'))
+    modelframe.save_line_chart( r'temp\result_with_bss_energy.png',f'RemainingEnergyExpression{bss.name}&{bss.id}',ylabel='remaining energy in BSS (kWh)')
 
 
 
-    
-    
+run_with_bss_topology()

@@ -203,20 +203,23 @@ class ModelFrame():
     def _generate_line_chart(self,data, title='', ylabel=''):
         weeklist = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
         monday = dt.strptime("10 10 2022 00:00", "%d %m %Y %H:%M")
+         # set all font size
+        params = {'font.size': 18}
+        plt.rcParams.update(params)
 
         def my_formatter(date, pos):
             try:
                 if pos % 4 == 0:
-                    return weeklist[int(pos/4)]
+                    return '0'
                 elif pos % 4 == 1:
                     return '6'
                 elif pos % 4 == 2:
-                    return '12'
+                    return f'12\n{weeklist[int(pos/4)]}'
                 elif pos % 4 == 3:
                     return '18'
             except:
                 return '24'
-        fig = Figure(figsize=(12, 5), dpi=500)
+        fig = Figure(figsize=(12, 8), dpi=500)
         ax = fig.add_subplot(111)
         
         for col_name, data in data.items():
@@ -224,8 +227,18 @@ class ModelFrame():
                 label = self.beautify_label_text(col_name)
             else:
                 label = ''
+            if 'PV' in col_name:
+                color = "red"
+            elif "charging" in col_name:
+                color = "limegreen"
+            elif "grid" in col_name:
+                color = "royalblue"
+            elif "company" in col_name:
+                color = "blueviolet"
+            elif "BSS" in col_name:
+                color = "orange"
             # linestyle = '--' if 'Average' not in col_name and 'Median' not in col_name else '-'
-            ax.plot(data.index, data, label=label)
+            ax.plot(data.index, data, label=label,color = color)
         ax.axhline(y=0, color='b', linestyle='-')
         ax.axis(xmin=monday,xmax=data.index[-1])
         ax.xaxis.set_major_locator(HourLocator(byhour=range(0, 24, 6)))
@@ -235,8 +248,10 @@ class ModelFrame():
         box = ax.get_position()
         ax.set_position([box.x0, box.y0 + box.height * 0.15,
                  box.width, box.height * 0.85])
-        ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05),ncol=2)
+        ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1),ncol=2)
         # plt.savefig('sources/result_figures/Power_flow_with_PV_and_BSS.png')
         return fig
     
+    def get_model(self):
+        return self.m
  

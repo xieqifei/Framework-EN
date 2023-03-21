@@ -25,6 +25,7 @@ def index():
     return app.send_static_file('index.html')
 
 
+
 @app.route('/solve', methods=['POST'])
 def solve_model():
     data = request.json

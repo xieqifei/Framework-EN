@@ -1,6 +1,6 @@
 # Framework-EN
 
-## Got Started
+## Get Started
 
 1. download Project
 

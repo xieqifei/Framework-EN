@@ -12,14 +12,16 @@
 cd Framework-EN
 pip install -r requirements.txt
 ```
+3. install and activate Gurobi.
+ [Download Gurobi](https://www.gurobi.com/downloads/gurobi-software/)
 
-3. run gui
+4. run gui
 
 ```
 python test.py
 ```
 
-4. use model
+5. use model
 
 ```
 python model/scenarios/plus_bss_and_pv.py

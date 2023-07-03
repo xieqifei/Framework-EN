@@ -41,7 +41,7 @@ def run_with_bss_topology():
 
     #create BSS and add to ac bus
 
-    bss_params = read_params('model/params/bss.json')
+    bss_params = read_params('model/params/batterystoragesystem.json')
     bss = BatteryStorageSystem(model,'BSS',bss_params)
     bss.add2node(node_bss2pcs)
 

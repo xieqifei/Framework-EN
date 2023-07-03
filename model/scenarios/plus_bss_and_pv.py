@@ -44,16 +44,19 @@ def run_with_bss_and_pv():
     company.add2node(node_acbus)
 
     
-
     # # # create inverter and add to ac bus and a dc bus node_pv2inverter
     inv_params = read_params('model/params/inverter.json')
     solar_inverter = Inverter(model,'solar inverter',inv_params)
     solar_inverter.add2node(node_acbus,node_pv2inverter)
 
     #create BSS and add to ac bus
-
-    bss_params = read_params('model/params/bss.json')
+    # with cycle life data
+    bss_params = read_params('model/params/batterystoragesystem.json')
     bss = BatteryStorageSystem(model,'BSS',bss_params)
+
+    # without cycle life data
+    # bss_params = read_params('model/params/bss.json')
+    # bss = BSS(model,'BSS',bss_params)
     bss.add2node(node_bss2pcs)
 
     pcs_params = read_params('model/params/pcs.json')

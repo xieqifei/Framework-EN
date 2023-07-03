@@ -1,0 +1,18 @@
+{
+    "efficiency_discharge":0.9,
+    "efficiency_charge":0.9,
+    "cost_investment_per_kwh":408,
+    "cost_investment_per_kw":156,
+    "cost_o&m_per_kw_year":4,
+    "soc_initial":30,
+    "price_recycle_per_kg":0.47,
+    "energy_density":0.1,
+    "cost_battery_purchasing_per_kwh":185,
+    "soc_min":15,
+    "soc_max":85,
+    "node_dc":"node_dc",
+    "power_fluctuation_penalty_weight":0.00001,
+    "battery_replacement_period":3,
+    "capacity_ratio_min":0.8,
+    "cycle_life_filepath":"model/data/cycle_life.json"
+}

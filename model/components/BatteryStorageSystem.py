@@ -1,5 +1,6 @@
 from pyomo.environ import *
 from model.base_module import ComponentAPI
+from model.base_module.base import *
 
 
 class BatteryStorageSystem(ComponentAPI):
@@ -23,7 +24,8 @@ class BatteryStorageSystem(ComponentAPI):
             self.m.time_step_count, domain=Binary))
         self.m.add_component(f'power_in_variation_pos_{self.name}&{self.id}',Var(self.m.time_step_count,domain=NonNegativeReals))
         self.m.add_component(f'power_in_variation_neg_{self.name}&{self.id}',Var(self.m.time_step_count,domain=NonNegativeReals))
-
+        self.m.add_component(
+            f'energy_throughput_{self.name}&{self.id}', Var(domain=NonNegativeReals))
     def _set_params(self,):
         """constant parameters of component are defined.
         """
@@ -31,8 +33,6 @@ class BatteryStorageSystem(ComponentAPI):
             within=NonNegativeReals,mutable=True, initialize=self.params['efficiency_discharge']))
         self.m.add_component(f'efficiency_charge_{self.name}&{self.id}', Param(
             within=NonNegativeReals,mutable=True, initialize=self.params['efficiency_charge']))
-        self.m.add_component(f'lifecycle_{self.name}&{self.id}', Param(
-            within=NonNegativeIntegers,mutable=True,  initialize=self.params['lifecycle']))
         self.m.add_component(f'cost_investment_per_kwh_{self.name}&{self.id}', Param(
             mutable=True, within=NonNegativeReals, initialize=self.params['cost_investment_per_kwh']))
         self.m.add_component(f'cost_investment_per_kw_{self.name}&{self.id}', Param(
@@ -52,6 +52,12 @@ class BatteryStorageSystem(ComponentAPI):
         self.m.add_component(f'soc_max_{self.name}&{self.id}', Param(
             within=NonNegativeIntegers,mutable=True , initialize=self.params['soc_max']))
         self.m.add_component(f'power_fluctuation_penalty_weight_{self.name}&{self.id}',Param(within=NonNegativeReals,initialize=self.params['power_fluctuation_penalty_weight']))
+        self.m.add_component(f'battery_replacement_period_{self.name}&{self.id}',Param(within=NonNegativeReals,initialize=self.params['battery_replacement_period']))
+        self.m.add_component(f'capacity_ratio_min_{self.name}&{self.id}',Param(within=NonNegativeReals,initialize=self.params['capacity_ratio_min']))
+        #maximal life cycle
+        cycle_number, ratio = read_cycle_life_from_json(self.params['cycle_life_filepath'])
+        cycle_equiv_max = integrate_ratio_cycle(cycle_number,ratio,self.m.component(f'capacity_ratio_min_{self.name}&{self.id}').value)
+        self.m.add_component(f'cycle_equiv_max_{self.name}&{self.id}',Param(within=NonNegativeReals,initialize=cycle_equiv_max))
 
     def _set_constraints(self,):
         """ constraints of component are defined.
@@ -82,12 +88,7 @@ class BatteryStorageSystem(ComponentAPI):
             f'power_out_{self.name}&{self.id}')[t] <= m.component(f'binary_variables_two_{self.name}&{self.id}')[t]*m.bigM))
         self.m.add_component(f'ChargingDirectinoConstraintsThree{self.name}&{self.id}', Constraint(self.m.time_step_count, rule=lambda m, t: m.component(
             f'binary_variables_one_{self.name}&{self.id}')[t]+m.component(f'binary_variables_two_{self.name}&{self.id}')[t] <= 1))
-        # self.m.add_component(f'PowerCapMaxConstraints{self.name}&{self.id}', Constraint(expr=10 >= self.m.component(f'power_capacity_{self.name}&{self.id}')))
-        #  self.m.add_component(f'PowerInMinConstraints{self.name}&{self.id}', Constraint(
-        #     self.m.time_step_count, rule=lambda m, t: 0 <= m.component(f'power_in_{self.name}&{self.id}')[t]))
-        
-        # self.m.add_component(f'PowerOutMinConstraints{self.name}&{self.id}', Constraint(
-        #     self.m.time_step_count, rule=lambda m, t: 0 <= m.component(f'power_out_{self.name}&{self.id}')[t]))
+
         def power_variation_exp(m,t):
             if(t==1):
                 return m.component(f'power_in_variation_pos_{self.name}&{self.id}')[t]+m.component(f'power_in_variation_neg_{self.name}&{self.id}')[t]==0
@@ -97,6 +98,13 @@ class BatteryStorageSystem(ComponentAPI):
         self.m.add_component(f'PowerInFluctuationConstraint{self.name}&{self.id}',Constraint(self.m.time_step_count,rule=power_variation_exp))
         # initail SoC == end Soc
         self.m.add_component(f'InitialAndEndSocConstraint{self.name}&{self.id}',Constraint(rule=self.m.component(f'RemainingEnergyExpression{self.name}&{self.id}')[1]==self.m.component(f'RemainingEnergyExpression{self.name}&{self.id}')[len(self.m.time_step_count)]))
+        # energy throughput
+        self.m.add_component(f'EnergyThroughputConstraint{self.name}&{self.id}',Constraint(rule=self.m.component(f'energy_throughput_{self.name}&{self.id}')==self.m.component(f'efficiency_charge_{self.name}&{self.id}')*self.m.time_intervel_hour*summation(self.m.component(f'power_in_{self.name}&{self.id}'))))
+        self.m.add_component(f'EnergyThroughputMaxExp',Expression(expr = self.m.component(f'energy_capacity_{self.name}&{self.id}')*self.m.component(f'cycle_equiv_max_{self.name}&{self.id}')))
+        self.m.add_component(f'EnergyThroughputInPeriod',Expression(expr = self.m.component(f'energy_throughput_{self.name}&{self.id}')*self.m.component(f'battery_replacement_period_{self.name}&{self.id}')*self.m.scale_factor_week2year))
+        self.m.add_component(f'EnergyThroughputMaxConstraint{self.name}&{self.id}',Constraint(rule=self.m.component(f'EnergyThroughputMaxExp')>=self.m.component(f'EnergyThroughputInPeriod')))
+        
+
 
     def _add_investment_cost(self,):
         """the fixed costs of component are added to self.m.cost_investment.
@@ -110,11 +118,10 @@ class BatteryStorageSystem(ComponentAPI):
         self.m.cashflow -= self.m.component(f'power_capacity_{self.name}&{self.id}')*self.m.component(
             f'cost_o&m_per_kw_year_{self.name}&{self.id}')
 
-        # degradation cost
-        self.m.add_component(f'DegradationCostPerKWh{self.name}&{self.id}', Expression(expr=(self.m.component(f'cost_battery_purchasing_per_kwh_{self.name}&{self.id}')-self.m.component(
-            f'price_recycle_per_kg_{self.name}&{self.id}')/self.m.component(f'energy_density_{self.name}&{self.id}'))/self.m.component(f'lifecycle_{self.name}&{self.id}')))
-        self.m.cashflow -= self.m.scale_factor_week2year*self.m.component(f'DegradationCostPerKWh{self.name}&{self.id}')*(self.m.component(f'efficiency_charge_{self.name}&{self.id}')*self.m.time_intervel_hour*summation(
-            self.m.component(f'power_in_{self.name}&{self.id}'))+1/self.m.component(f'efficiency_discharge_{self.name}&{self.id}')*self.m.time_intervel_hour*summation(self.m.component(f'power_out_{self.name}&{self.id}')))
+        # replacement cost
+        self.m.add_component(f'ReplacementCostPerKWh{self.name}&{self.id}', Expression(expr=(self.m.component(f'cost_battery_purchasing_per_kwh_{self.name}&{self.id}')-self.m.component(
+            f'price_recycle_per_kg_{self.name}&{self.id}')/self.m.component(f'energy_density_{self.name}&{self.id}'))))
+        self.m.cashflow -= self.m.component(f'ReplacementCostPerKWh{self.name}&{self.id}')*self.m.component(f'energy_capacity_{self.name}&{self.id}')/self.m.component(f'battery_replacement_period_{self.name}&{self.id}')
 
         # power fluctuation penalty
         self.m.add_component(f'TotalPowerVariation{self.name}&{self.id}',Expression(expr=summation(self.m.component(f'power_in_variation_pos_{self.name}&{self.id}'))+summation(self.m.component(f'power_in_variation_neg_{self.name}&{self.id}'))))

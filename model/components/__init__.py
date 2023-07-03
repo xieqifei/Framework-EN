@@ -5,6 +5,7 @@ from .Inverter import *
 from .BatteryStorageSystem import *
 from .PVModule import *
 from .BatteryStorageSystem2 import *
+from .BSS import *
 
 
-__all__=['PowerConversionSystem','Grid','BatteryStorageSystem','PVModule','BatteryStorageSystem2','Inverter']
+__all__=['PowerConversionSystem','Grid','BatteryStorageSystem','PVModule','BatteryStorageSystem2','Inverter','BSS']

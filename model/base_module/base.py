@@ -1,7 +1,10 @@
 import json
 import random
 import string
-
+import openpyxl
+from scipy import interpolate
+from scipy import integrate
+import numpy as np
 
 
 def read_params(filename):
@@ -47,3 +50,40 @@ def generate_random_id():
     # 从字符集中随机选择 10 个字符，并将它们组合成一个字符串
     random_string = ''.join(random.choice(characters) for i in range(10))
     return random_string
+
+def read_cycle_life_data_from_excel(path):
+    # open excel file
+    wb = openpyxl.load_workbook(path)
+
+    # choose first sheet
+    sheet = wb['Sheet1']
+
+    # stroe the data of first colomn to col1_data
+    col1_data = [cell.value for cell in sheet['A'][1:] if cell.value is not None]
+
+    # 存储第二列数据到列表col2_data
+    col2_data = [cell.value for cell in sheet['B'][1:] if cell.value is not None]
+    return col1_data,col2_data
+
+def save_cycle_life_data_to_json(cycle_number,ratio,path):
+    data = {'cycle_number':cycle_number,'ratio':ratio}
+    with open(path,'w') as fp:
+        json.dump(data,fp)
+
+def read_cycle_life_from_json(path):
+    with open(path,'r') as fp:
+        data = json.load(fp)
+    return data['cycle_number'],data['ratio']
+
+def get_cycle_number_by_ratio(cycle_number,ratio,unknow_ratio):
+    c = interpolate.interp1d(ratio,cycle_number,kind='linear')
+    return c(unknow_ratio)
+
+def integrate_ratio_cycle(cycle_number,ratio,end_ratio=0.8):
+    if(cycle_number[0] != 0):
+        cycle_number.insert(0,0)
+        ratio.insert(0,1)
+    r = interpolate.interp1d(cycle_number,ratio,kind='linear')
+    cycle_num_by_end_ratio = get_cycle_number_by_ratio(cycle_number,ratio,end_ratio)
+    result, error = integrate.quad(r, 0, cycle_num_by_end_ratio)
+    return result
